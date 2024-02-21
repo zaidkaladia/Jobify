@@ -53,58 +53,70 @@ def launchBrowser(URL):
 
 
 
-def scrapeInternshala(profile, location, remote, partTime):
+def scrapeInternshala(profile, location):
     # for now we are only supporting profile and location
     # profile is a mendatory argument
-        
-    profile = profile.strip().lower().replace(' ', '-') + "-internship"
-    if(location is not None):
-        location = location.strip().lower()
-        URL = f"https://internshala.com/internships/{profile}-in-{location}"
+    profile = profile.strip().lower().replace(' ', '-') + "-internship/"
+    location = location.strip().lower().replace(' ', '-')
+    if(location != ''):
+        URL = f"https://internshala.com/internships/work-from-home-{profile}-internships-in-{location}/part-time-true/"
     else:
-        URL = f"https://internshala.com/internships/{profile}"
+        URL = f"https://internshala.com/internships/work-from-home-{profile}-internships/part-time-true/"
     
-    resp = httpx.get(URL, headers=headers)
-
-    # html = HTMLParser(resp.text)
-    # listings = html.css("div.container-fluid individual_internship visibilityTrackerItem ")
-    # print(listings)
-
-    soup = BeautifulSoup(resp, 'html.parser')
-    internshipListingCards = soup.find_all(class_="container-fluid individual_internship visibilityTrackerItem")
     listings = {"title": [],
                 "companyName": [],
                 "skills": [],
                 }
-    for internshipListingCard in internshipListingCards:
-        # internshipListingCard = internshipListingCard.text
-        # internshipListingCard = internshipListingCard.strip().replace(" ", "").replace('\n', ' ')
-        # print(internshipListingCard)
-        # print("--------------------------------------------------------------------")
-        #Getting title and company name
-        internshipListingCardTitleAndCompany = internshipListingCard.div.find(class_ = "individual_internship_header").find(class_="company")
-        internshipListingCardTitle = internshipListingCardTitleAndCompany.find(class_="heading_4_5 profile")
-        internshipListingCardCompanyName = internshipListingCardTitleAndCompany.find(class_="heading_6 company_name")
-        
-        listings["title"].append(internshipListingCardTitle.text.strip())
-        listings["companyName"].append(internshipListingCardCompanyName.text.strip())
-        
-        #Getting skills
-        internshipListingCardDetailsPageLink = "https://internshala.com" + internshipListingCard.find(class_="button_container_card").div.a['href']
-        # print(internshipListingCardDetailsPageLink)
-        # print("------------------------------")
-        detailsPage = httpx.get(internshipListingCardDetailsPageLink, headers=headers)
-        detailsPageHTML = BeautifulSoup(detailsPage, "html.parser")
-        skillsFromDetailsPage = detailsPageHTML.find(class_ = "round_tabs_container").children
-        skills = []
-        for skill in skillsFromDetailsPage:
-            if(skill.text != "\n"):
-                skills.append(skill.text)
-        listings["skills"].append(skills)
-        # listings.append(titleCompanyNameDetails)
+    resp = httpx.get(URL, headers=headers)
+    soup = BeautifulSoup(resp, 'html.parser')
+    numberOfPages = int(soup.find(id="total_pages").text)
+    print(numberOfPages)
+    for i in range(1, numberOfPages+1):
+        URL = URL + f"page-{i}/"
+        resp = httpx.get(URL, headers=headers)
+        print(URL)
+
+        # html = HTMLParser(resp.text)
+        # listings = html.css("div.container-fluid individual_internship visibilityTrackerItem ")
+        # print(listings)
+
+        soup = BeautifulSoup(resp, 'html.parser')
+        try:
+            internshipListingCards = soup.find_all(class_="container-fluid individual_internship visibilityTrackerItem")
+            for internshipListingCard in internshipListingCards:
+                # internshipListingCard = internshipListingCard.text
+                # internshipListingCard = internshipListingCard.strip().replace(" ", "").replace('\n', ' ')
+                # print(internshipListingCard)
+                # print("--------------------------------------------------------------------")
+                #Getting title and company name
+                internshipListingCardTitleAndCompany = internshipListingCard.div.find(class_ = "individual_internship_header").find(class_="company")
+                internshipListingCardTitle = internshipListingCardTitleAndCompany.find(class_="heading_4_5 profile")
+                internshipListingCardCompanyName = internshipListingCardTitleAndCompany.find(class_="heading_6 company_name")
+                
+                listings["title"].append(internshipListingCardTitle.text.strip())
+                listings["companyName"].append(internshipListingCardCompanyName.text.strip())
+                
+                #Getting skills
+                internshipListingCardDetailsPageLink = "https://internshala.com" + internshipListingCard.find(class_="button_container_card").div.a['href']
+                # print(internshipListingCardDetailsPageLink)
+                # print("------------------------------")
+                detailsPage = httpx.get(internshipListingCardDetailsPageLink, headers=headers)
+                detailsPageHTML = BeautifulSoup(detailsPage, "html.parser")
+                skillsFromDetailsPage = detailsPageHTML.find(class_ = "round_tabs_container").children
+                skills = []
+                for skill in skillsFromDetailsPage:
+                    if(skill.text != "\n"):
+                        skills.append(skill.text)
+                listings["skills"].append(skills)
+                # listings.append(titleCompanyNameDetails)
+                # print(listings)
+        except AttributeError as err:
+            print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
+            print(URL)
+            print(err)
     df = pd.DataFrame(listings)
     print(df)
-scrapeInternshala("web development", "vadodara", False, False)
+scrapeInternshala("web development", "vadodara")
 # launchBrowser(URL)
 # resp = httpx.get(URL, headers=headers)
 # html = HTMLParser(resp.text)
