@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 
-def scrapeNaukriDotCom(title="", experience="", location = ""):
+def scrapeNaukriDotCom(title="", experience=0, location = ""):
     URL = "https://www.naukri.com/jobapi/v3/search?noOfResults=20&urlType=search_by_key_loc&searchType=adv&location=vadodara&keyword=data%20analyst&pageNo=1&experience=0&k=data%20analyst&l=vadodara&experience=0&seoKey=data-analyst-jobs-in-vadodara&src=jobsearchDesk&latLong="
     
     titleSEOKey = title.replace(" ", "-")
@@ -22,10 +22,11 @@ def scrapeNaukriDotCom(title="", experience="", location = ""):
         "SystemId" : "Naukri"
     }
     # resp = httpx.get(URL, headers=headers)
-    resp = requests.get(URL, headers=headers)
-    # with open("foo2.json", 'w') as f:
-    #     json.dump(resp.json(), f)
+    resp = requests.get(testURL, headers=headers)
+    with open("foo2.json", 'w') as f:
+        json.dump(resp.json(), f)
     respJson = resp.json()
+    # print(respJson)
 
     listings = {"title": [],
                 "companyName": [],
@@ -35,14 +36,21 @@ def scrapeNaukriDotCom(title="", experience="", location = ""):
  
     jobDetails = respJson["jobDetails"] 
     for jobDetail in jobDetails:
-        listings["title"].append(jobDetail["title"])
-        listings["companyName"].append(jobDetail["companyName"])
-        listings["skills"].append(jobDetail["tagsAndSkills"])
-        listings["jobURL"].append(jobDetail["jdURL"])
+        try:
+            jobDetailTitle = jobDetail["title"]
+            jobDetailCompanyName = jobDetail["companyName"]
+            jobDetailTagsAndSkills = jobDetail["tagsAndSkills"]
+            jobDetailJobURL = jobDetail["jdURL"]
+        except KeyError as err:
+            continue
+        listings["title"].append(jobDetailTitle)
+        listings["companyName"].append(jobDetailCompanyName)
+        listings["skills"].append(jobDetailTagsAndSkills)
+        listings["jobURL"].append(jobDetailJobURL)
     df = pd.DataFrame(listings)
     print(df)
 
     
 
 
-scrapeNaukriDotCom()
+scrapeNaukriDotCom("web development", 0, "ahemdabad")
