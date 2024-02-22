@@ -10,8 +10,6 @@ import pandas as pd
 
 
 def scrapeNaukriDotCom(title="", experience=0, location = ""):
-    URL = "https://www.naukri.com/jobapi/v3/search?noOfResults=20&urlType=search_by_key_loc&searchType=adv&location=vadodara&keyword=data%20analyst&pageNo=1&experience=0&k=data%20analyst&l=vadodara&experience=0&seoKey=data-analyst-jobs-in-vadodara&src=jobsearchDesk&latLong="
-    
     titleSEOKey = title.replace(" ", "-")
     title = title.replace(" ", "%20")
     
