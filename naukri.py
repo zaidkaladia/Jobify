@@ -53,4 +53,4 @@ def scrapeNaukriDotCom(title="", experience=0, location = ""):
     
 
 
-scrapeNaukriDotCom("web development", 0, "ahemdabad")
+scrapeNaukriDotCom("web develoment", 0, "vadodara")
