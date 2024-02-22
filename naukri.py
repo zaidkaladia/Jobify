@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selectolax.parser import HTMLParser
 from bs4 import BeautifulSoup
+import pandas as pd
 
 
 def scrapeNaukriDotCom():
@@ -18,8 +19,26 @@ def scrapeNaukriDotCom():
     }
     # resp = httpx.get(URL, headers=headers)
     resp = requests.get(URL, headers=headers)
-    with open("foo2.json", 'w') as f:
-        json.dump(resp.json(), f)
-    # print(resp.text)"""  """
+    # with open("foo2.json", 'w') as f:
+    #     json.dump(resp.json(), f)
+    respJson = resp.json()
+
+    listings = {"title": [],
+                "companyName": [],
+                "skills": [],
+                "jobURL": []
+                }
+
+    jobDetails = respJson["jobDetails"] 
+    for jobDetail in jobDetails:
+        listings["title"].append(jobDetail["title"])
+        listings["companyName"].append(jobDetail["companyName"])
+        listings["skills"].append(jobDetail["tagsAndSkills"])
+        listings["jobURL"].append(jobDetail["jdURL"])
+    df = pd.DataFrame(listings)
+    print(df)
+
+    
+
 
 scrapeNaukriDotCom()
