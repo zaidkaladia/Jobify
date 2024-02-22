@@ -76,6 +76,7 @@ def scrapeInternshala(profile, location, remote, partTime):
                 "companyName": [],
                 "skills": [],
                 }
+    print(internshipListingCards)
     for internshipListingCard in internshipListingCards:
         # internshipListingCard = internshipListingCard.text
         # internshipListingCard = internshipListingCard.strip().replace(" ", "").replace('\n', ' ')
@@ -97,6 +98,7 @@ def scrapeInternshala(profile, location, remote, partTime):
         detailsPageHTML = BeautifulSoup(detailsPage, "html.parser")
         skillsFromDetailsPage = detailsPageHTML.find(class_ = "round_tabs_container").children
         skills = []
+        return
         for skill in skillsFromDetailsPage:
             if(skill.text != "\n"):
                 skills.append(skill.text)

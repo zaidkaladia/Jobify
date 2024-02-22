@@ -21,7 +21,7 @@ def scrapeNaukriDotCom(designation, location,experience, remote, partTime):
     designation = designation.strip().lower().replace(' ', '-')
     if(location is not None):
         location = location.strip().lower()
-        URL = f"https://www.naukri.com/{designation}-jobs-in-{location}?experience={experinence}"
+        URL = f"https://www.naukri.com/{designation}-jobs-in-{location}?experience={experience}"
     else:
         URL = f"https://www.naukri.com/{designation}-jobs"
     
