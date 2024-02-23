@@ -12,6 +12,7 @@ userSkills = ["ms-excel", "data analytics"]
 skillsRemainingPerPosting = []
 
 for index, row in df.iterrows():
+    
     listedSkills=row['skills'][2:-2].split("', '")
     listedSkills=row['skills'][2:-2].split(",")
     remainingSkills = []

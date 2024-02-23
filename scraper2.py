@@ -93,7 +93,7 @@ def scrapeInternshala(profile, location):
                 
                 listings["title"].append(internshipListingCardTitle.text.strip())
                 listings["companyName"].append(internshipListingCardCompanyName.text.strip())
-                listings["URLs"].append("https://internshala.com"+internshipListingCardURL)
+                listings["URLs"].append("https://www.internshala.com"+internshipListingCardURL)
                 
                 #Getting skills
                 internshipListingCardDetailsPageLink = "https://internshala.com" + internshipListingCard.find(class_="button_container_card").div.a['href']
@@ -123,8 +123,11 @@ userSkills = ["ms-excel", "data analytics"]
 skillsRemainingPerPosting = []
 
 for index, row in df.iterrows():
-    listedSkills=row['skills'][2:-2].split("', '")
-    listedSkills=row['skills'][2:-2].split(",")
+    if row['URLs'][12]=="n":
+        listedSkills=row['skills'].split(",")
+    else:
+        listedSkills=row['skills'][2:-2].split("', '")
+    
     remainingSkills = []
     for skill in listedSkills:
         if skill not in userSkills:
