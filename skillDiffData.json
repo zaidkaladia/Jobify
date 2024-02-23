@@ -1,210 +1,5574 @@
-{
-    "/internship/detail/work-from-home-part-time-social-media-scouting-internship-at-aam-aadmi-party1708258156": [
-        "business research",
-        "research and analytics"
-    ],
-    "/internship/detail/work-from-home-data-analytics-internship-at-sportskeeda1708056004": [
-        "advanced excel",
-        "python",
-        "sql"
-    ],
-    "/internship/detail/work-from-home-part-time-business-analytics-internship-at-aroma-curry1708687387": [
-        "advanced excel",
-        "english proficiency (spoken)",
-        "english proficiency (written)",
-        "microsoft visual studio",
-        "ms-office",
-        "python",
-        "research and analytics"
-    ],
-    "/internship/detail/work-from-home-part-time-machine-learning-internship-at-formbid-private-limited1708685689": [
-        "data science",
-        "deep learning",
-        "machine learning",
-        "natural language processing (nlp)",
-        "python"
-    ],
-    "/internship/detail/work-from-home-data-analytics-internship-at-the-hr-mindset-corporate-service-limited1708602877": [],
-    "/internship/detail/work-from-home-part-time-social-media-marketing-internship-at-azrah1708412087": [
-        "canva",
-        "content marketing",
-        "digital marketing",
-        "email marketing",
-        "english proficiency (spoken)",
-        "english proficiency (written)",
-        "instagram marketing",
-        "social media marketing"
-    ],
-    "/internship/detail/work-from-home-part-time-technical-content-curator-management-internship-at-tech-analogy1708407124": [
-        "autocad",
-        "content marketing",
-        "content writing",
-        "creative writing",
-        "data analysis",
-        "effective communication",
-        "event management",
-        "mathematics",
-        "matlab",
-        "problem solving",
-        "product management",
-        "product strategy",
-        "project management",
-        "python",
-        "research and analytics",
-        "solidworks",
-        "time management"
-    ],
-    "/internship/detail/part-time-machine-learning-internship-in-multiple-locations-at-buddha-education-association-incorporation1708406054": [
-        "data science",
-        "deep learning",
-        "machine learning",
-        "natural language processing (nlp)",
-        "python",
-        "r programming"
-    ],
-    "/internship/detail/work-from-home-data-science-internship-at-blackcoffer1708328305": [
-        "data science",
-        "elasticsearch",
-        "machine learning",
-        "mongodb",
-        "power bi",
-        "python",
-        "sql"
-    ],
-    "/internship/detail/work-from-home-email-marketing-internship-at-lawtech1708316086": [
-        "canva",
-        "content marketing",
-        "copywriting",
-        "digital marketing",
-        "email marketing",
-        "english proficiency (written)",
-        "marketing",
-        "social media marketing"
-    ],
-    "/internship/detail/work-from-home-part-time-social-media-outreach-internship-at-help-and-hygiene-for-all-foundation1708229461": [
-        "marketing strategies "
-    ],
-    "/internship/detail/work-from-home-pdf-to-xml-conversion-internship-at-hazzten1708069449": [
-        "xml"
-    ],
-    "/internship/detail/work-from-home-database-building-management-internship-at-artforhumanity-foundation1708057350": [
-        "data analysis",
-        "database testing",
-        "data structures",
-        "ms-office",
-        "ms-word"
-    ],
-    "/internship/detail/work-from-home-part-time-machine-learning-internship-at-mentorboxx1707823954": [
-        "machine learning",
-        "natural language processing (nlp)",
-        "python"
-    ],
-    "/internship/detail/work-from-home-machine-learning-internship-at-avaari1707816329": [
-        "data science",
-        "deep learning",
-        "machine learning",
-        "natural language processing (nlp)",
-        "python",
-        "r programming"
-    ],
-    "/internship/detail/work-from-home-part-time-machine-learning-internship-at-shubh-international1707816303": [
-        ".net",
-        "data science",
-        "deep learning",
-        "machine learning",
-        "natural language processing (nlp)",
-        "python",
-        "r programming"
-    ],
-    "/internship/detail/work-from-home-part-time-machine-learning-internship-at-buddha-education-association-incorporation1707812633": [
-        "data science",
-        "deep learning",
-        "machine learning",
-        "natural language processing (nlp)",
-        "python",
-        "r programming"
-    ],
-    "/internship/detail/work-from-home-part-time-technical-support-internship-at-budding-mariners1707798312": [
-        "effective communication",
-        "linux",
-        "problem solving"
-    ],
-    "/internship/detail/work-from-home-business-analytics-internship-at-smollan-india-private-limited1707750344": [
-        "english proficiency (spoken)",
-        "ms-powerpoint",
-        "research and analytics"
-    ],
-    "/internship/detail/data-analytics-internship-in-greater-noida-at-village-company1708336712": [
-        "google analytics",
-        "python",
-        "sql",
-        "tableau"
-    ],
-    "/internship/detail/work-from-home-part-time-machine-learning-internship-at-jivichem-synthesis-private-limited1707557030": [
-        "data science",
-        "deep learning",
-        "machine learning",
-        "natural language processing (nlp)",
-        "python",
-        "r programming"
-    ],
-    "/internship/detail/work-from-home-part-time-data-science-internship-at-jivichem-synthesis-private-limited1707556646": [
-        "data science",
-        "deep learning",
-        "machine learning",
-        "natural language processing (nlp)",
-        "python",
-        "sql"
-    ],
-    "/internship/detail/work-from-home-part-time-data-science-internship-at-mentorboxx1707476656": [
-        "data science",
-        "python",
-        "sql"
-    ],
-    "/internship/detail/part-time-business-analytics-internship-in-multiple-locations-at-mentorboxx1707476621": [
-        "english proficiency (spoken)",
-        "english proficiency (written)",
-        "ms-office"
-    ],
-    "/internship/detail/work-from-home-data-analytics-internship-at-cleantech-solar1707457006": [
-        "linux",
-        "power bi",
-        "python",
-        "r programming",
-        "shell scripting",
-        "sql"
-    ],
-    "/internship/detail/work-from-home-python-development-internship-at-megaminds-it-services1706591675": [
-        "data science",
-        "deep learning",
-        "english proficiency (spoken)",
-        "english proficiency (written)",
-        "machine learning",
-        "natural language processing (nlp)",
-        "python",
-        "research and analytics",
-        "sql"
-    ],
-    "/internship/detail/work-from-home-part-time-microsoft-power-bi-internship-at-pianalytix-edutech-private-limted1706258628": [
-        "business analysis",
-        "data analysis",
-        "power bi"
-    ],
-    "/internship/detail/work-from-home-analytics-content-creator-internship-at-datavinci-private-limited1707310092": [
-        "business analysis",
-        "c++ programming",
-        "c programming",
-        "css",
-        "english proficiency (spoken)",
-        "google analytics",
-        "html&css",
-        "javascript",
-        "video making"
-    ],
-    "/internship/detail/financial-technical-analysis-intraday-trading-work-from-home-job-internship-at-trader-for-tomorrow1705861471": [
-        "financial literacy",
-        "financial modeling",
-        "mathematics",
-        "stock trading"
-    ]
-}
+[
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-wordpress-development-internship-at-lingvoo1708698545",
+        "companyName": "LingVoo",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "WordPress"
+        ],
+        "noOfMissingSkills": 1
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-wordpress-development-internship-at-cehpoint1708694260",
+        "companyName": "Cehpoint",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "WordPress"
+        ],
+        "noOfMissingSkills": 1
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-wordpress-development-internship-at-filesure-india-private-limited1708665901",
+        "companyName": "FileSure India Private Limited",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "WordPress"
+        ],
+        "noOfMissingSkills": 1
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-react-native-development-app-development-internship-at-cehpoint1708498940",
+        "companyName": "Cehpoint",
+        "jobTitle": "React Native Development (App Development)",
+        "skillsRequired": [
+            "React Native"
+        ],
+        "noOfMissingSkills": 1
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-python-django-development-internship-at-shobhit-gupta1708078015",
+        "companyName": "Shobhit Gupta",
+        "jobTitle": "Python/Django Development",
+        "skillsRequired": [
+            "Python"
+        ],
+        "noOfMissingSkills": 1
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-python-development-internship-at-digipplus1706592376",
+        "companyName": "Digipplus",
+        "jobTitle": "Python Development",
+        "skillsRequired": [
+            "Python"
+        ],
+        "noOfMissingSkills": 1
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-chatbot-development-internship-at-pianalytix-edutech-private-limted1707883850",
+        "companyName": "Pianalytix Edutech Private Limted",
+        "jobTitle": "ChatBot Development",
+        "skillsRequired": [
+            "Natural Language Processing (NLP)"
+        ],
+        "noOfMissingSkills": 1
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-frontend-applications-development-internship-at-expertel-sa-proceedit1708515000",
+        "companyName": "Expertel SA - Proceedit (Barcelona, Espa\u00f1a)",
+        "jobTitle": "Frontend Applications Development",
+        "skillsRequired": [
+            "HTML&CSS"
+        ],
+        "noOfMissingSkills": 1
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-hamsi-marketing1707975477",
+        "companyName": "Hamsi Marketing",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "Figma"
+        ],
+        "noOfMissingSkills": 1
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-kyc3601707972622",
+        "companyName": "KYC360",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "C#"
+        ],
+        "noOfMissingSkills": 1
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-interns-trainee-tech-mitraa-ahmedabad-0-to-2-years-200320501524",
+        "companyName": "Tech Mitraa",
+        "jobTitle": "Interns / Trainee",
+        "skillsRequired": [
+            "tern",
+            "Traini"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-trainee-valeurhr-ahmedabad-sal-school-of-architecture-ahmedabad-0-to-1-years-131117500017",
+        "companyName": "SAL School Of Architecture",
+        "jobTitle": "Trainee ValeurHR Ahmedabad",
+        "skillsRequired": [
+            "ainee",
+            "Traini"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-funnel-landing-page-development-wordpress-internship-at-spwebdevs-app-web-development-agency1708441808",
+        "companyName": "SpWeb@Devs - App & Web Development Agency",
+        "jobTitle": "Funnel Landing Page Development (WordPress)",
+        "skillsRequired": [
+            "Search Engine Optimization (SEO)'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-wordpress-development-internship-at-madquick-digital-agency1707130070",
+        "companyName": "Madquick Digital Agency",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "Search Engine Optimization (SEO)'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-react-development-internship-at-patilkaki1708145271",
+        "companyName": "PatilKaki",
+        "jobTitle": "React Development",
+        "skillsRequired": [
+            "React'",
+            " 'ReactJS"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-react-native-development-internship-at-webmobi1706332627",
+        "companyName": "Webmobi",
+        "jobTitle": "React Native Development",
+        "skillsRequired": [
+            "React Native'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-laravel-developer-ebiztrait-ahmedabad-0-to-2-years-290923501468",
+        "companyName": "Ebiztrait",
+        "jobTitle": "PHP-Laravel Developer",
+        "skillsRequired": [
+            "P",
+            "Developme"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/full-stack-development-work-from-home-job-internship-at-webmobi1705929447",
+        "companyName": "Webmobi",
+        "jobTitle": "Full Stack Development",
+        "skillsRequired": [
+            "Node.js'",
+            " 'ReactJS"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-mern-stack-development-internship-at-patilkaki1708146800",
+        "companyName": "PatilKaki",
+        "jobTitle": "MERN Stack Development",
+        "skillsRequired": [
+            "MEAN/MERN Stack'",
+            " 'MongoDB"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-myexampapers1708402412",
+        "companyName": "Myexampapers (London, United Kingdom)",
+        "jobTitle": "Full Stack Development",
+        "skillsRequired": [
+            "Letter of recommendation'",
+            " ' Flexible work hours"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-front-end-development-internship-at-rydeu-logistics-ug1708079801",
+        "companyName": "Rydeu Logistics UG",
+        "jobTitle": "Front End Development",
+        "skillsRequired": [
+            "Letter of recommendation'",
+            " ' Flexible work hours"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-react-native-development-internship-at-cehpoint1708412250",
+        "companyName": "Cehpoint",
+        "jobTitle": "React Native Development",
+        "skillsRequired": [
+            "LARAVEL'",
+            " 'React Native"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-react-native-laravel-internship-at-cehpoint1707814529",
+        "companyName": "Cehpoint",
+        "jobTitle": "React Native & Laravel",
+        "skillsRequired": [
+            "LARAVEL'",
+            " 'React Native"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-laravel-development-internship-at-codalay1708666166",
+        "companyName": "Codalay",
+        "jobTitle": "Laravel Development",
+        "skillsRequired": [
+            "LARAVEL'",
+            " 'PHP"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-flutter-development-internship-at-systemic-altruism1708148459",
+        "companyName": "Systemic Altruism",
+        "jobTitle": "Flutter Development",
+        "skillsRequired": [
+            "Flutter'",
+            " 'iOS"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-python-django-internship-at-across-the-globe-atg1708417719",
+        "companyName": "Across The Globe (ATG)",
+        "jobTitle": "Python Django",
+        "skillsRequired": [
+            "Django'",
+            " 'Python"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-backend-applications-development-internship-at-expertel-sa-proceedit1708510451",
+        "companyName": "Expertel SA - Proceedit (Barcelona, Espa\u00f1a)",
+        "jobTitle": "Backend Applications Development",
+        "skillsRequired": [
+            "Data Structures'",
+            " 'Python"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-symfony-developer-internship-at-fireclash-enterprises1708344299",
+        "companyName": "Fireclash Enterprises",
+        "jobTitle": "Symfony Developer",
+        "skillsRequired": [
+            "CodeIgniter'",
+            " 'Symfony"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-wix-website-development-internship-at-ozibook-tech-solutions-private-limited1707568564",
+        "companyName": "Ozibook Tech Solutions Private Limited",
+        "jobTitle": "Wix Website Development",
+        "skillsRequired": [
+            "Certificate'",
+            " ' Letter of recommendation"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-prompt-engineering-internship-at-future-skills1708592018",
+        "companyName": "Future Skills",
+        "jobTitle": "Prompt Engineering",
+        "skillsRequired": [
+            "Business Analysis'",
+            " 'Business Research"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-dot-net-developer-flexiware-solution-private-limited-ahmedabad-0-to-5-years-100420500319",
+        "companyName": "Flexiware Solution",
+        "jobTitle": "Dot Net Developer",
+        "skillsRequired": [
+            "ASP.Net",
+            "M"
+        ],
+        "noOfMissingSkills": 2
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-full-stack-developer-internship-at-studentpeeps1708325601",
+        "companyName": "StudentPeeps",
+        "jobTitle": "Full Stack Developer",
+        "skillsRequired": [
+            "HTML&CSS'",
+            " 'Java'",
+            " 'Python"
+        ],
+        "noOfMissingSkills": 3
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-react-native-development-remote-wfh-internship-at-quarterstack-technologies-private-limited1708414397",
+        "companyName": "QUARTERSTACK TECHNOLOGIES PRIVATE LIMITED",
+        "jobTitle": "React Native Development - Remote/WFH",
+        "skillsRequired": [
+            "Git'",
+            " 'React Native'",
+            " 'Redux"
+        ],
+        "noOfMissingSkills": 3
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-odoo-developer-engo-internship-at-techfinna1708661707",
+        "companyName": "TechFinna",
+        "jobTitle": "Odoo Developer engo",
+        "skillsRequired": [
+            "Django'",
+            " 'Odoo'",
+            " 'Python"
+        ],
+        "noOfMissingSkills": 3
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-web-scraping-google-maps-google-search-internship-at-hawk-digital-agency1707800737",
+        "companyName": "Hawk Digital Agency",
+        "jobTitle": "Web Scraping - Google Maps - Google Search",
+        "skillsRequired": [
+            "Data Analysis'",
+            " 'Data Structures'",
+            " 'Python"
+        ],
+        "noOfMissingSkills": 3
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-digital-guruji1708453698",
+        "companyName": "Digital Guruji",
+        "jobTitle": "Full Stack Development",
+        "skillsRequired": [
+            "Certificate'",
+            " ' Letter of recommendation'",
+            " ' Flexible work hours"
+        ],
+        "noOfMissingSkills": 3
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-flutter-flow-expert-internship-at-jharkhand-it-solutions1708335915",
+        "companyName": "Jharkhand IT Solutions",
+        "jobTitle": "Flutter Flow Expert",
+        "skillsRequired": [
+            "Certificate'",
+            " ' Letter of recommendation'",
+            " ' Flexible work hours"
+        ],
+        "noOfMissingSkills": 3
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-no-code-web-development-internship-at-patilkaki1707628927",
+        "companyName": "PatilKaki",
+        "jobTitle": "No Code Web Development",
+        "skillsRequired": [
+            "Certificate'",
+            " ' Letter of recommendation'",
+            " ' Flexible work hours"
+        ],
+        "noOfMissingSkills": 3
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-emoolar-technology-private-limited1706157364",
+        "companyName": "Emoolar Technology Private Limited",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "Certificate'",
+            " ' Letter of recommendation'",
+            " ' Flexible work hours"
+        ],
+        "noOfMissingSkills": 3
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-flutterflow-developer-internship-at-madrocket-technologies-media1707993580",
+        "companyName": "Madrocket Technologies & Media",
+        "jobTitle": "Flutterflow Developer",
+        "skillsRequired": [
+            "Certificate'",
+            " ' Flexible work hours'",
+            " ' Job offer"
+        ],
+        "noOfMissingSkills": 3
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-api-development-internship-at-steeleye1708504173",
+        "companyName": "SteelEye",
+        "jobTitle": "API Development",
+        "skillsRequired": [
+            "Certificate'",
+            " ' Flexible work hours'",
+            " ' 5 days a week"
+        ],
+        "noOfMissingSkills": 3
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-wordpress-development-internship-at-techmount1708054858",
+        "companyName": "TechMount (Mississauga, Canada)",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 3
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-wordpress-development-internship-at-patilkaki1707629010",
+        "companyName": "PatilKaki",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 3
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-spectral-media1708578730",
+        "companyName": "Spectral Media (Sydney, Australia)",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'JavaScript"
+        ],
+        "noOfMissingSkills": 3
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-fresh-focus-consumer-products-private-limited1708335795",
+        "companyName": "Fresh Focus Consumer Products Private Limited",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'JavaScript"
+        ],
+        "noOfMissingSkills": 3
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-javascript-development-internship-at-pianalytix-edutech-private-limted1707883878",
+        "companyName": "Pianalytix Edutech Private Limted",
+        "jobTitle": "JavaScript Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'JavaScript"
+        ],
+        "noOfMissingSkills": 3
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-front-end-development-internship-at-orbol-ad-film-production-networks1708412851",
+        "companyName": "ORBOL Ad/Film Production Networks",
+        "jobTitle": "Front End Development",
+        "skillsRequired": [
+            "AngularJS'",
+            " 'Bootstrap'",
+            " 'ReactJS"
+        ],
+        "noOfMissingSkills": 3
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-course-development-angularjs-internship-at-prashant-mishra1707817087",
+        "companyName": "Prashant Mishra",
+        "jobTitle": "Course Development (Angular.js)",
+        "skillsRequired": [
+            "Adobe After Effects'",
+            " 'Online Teaching'",
+            " 'Subject Matter Expert (SME)"
+        ],
+        "noOfMissingSkills": 3
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-game-developer-effe-studios-pvt-ltd-ahmedabad-0-to-4-years-040124501754",
+        "companyName": "Effe Studios",
+        "jobTitle": "Game Developer",
+        "skillsRequired": [
+            "me Developer",
+            "Game Development",
+            "Games",
+            "Developme"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-fresher-project-trainee-prishusoft-ahmedabad-0-to-0-years-271223501705",
+        "companyName": "Prishusoft",
+        "jobTitle": "Fresher & Project Trainee",
+        "skillsRequired": [
+            "aining",
+            "Project Trainee",
+            "Research",
+            "Proje"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-freshers-byte-and-bits-jamnagar-ahmedabad-rajkot-surat-vadodara-baroda-0-to-1-years-070420500919",
+        "companyName": "Byte And Bits",
+        "jobTitle": "PHP Freshers",
+        "skillsRequired": [
+            "P Developer",
+            "PHP",
+            "PHP Development",
+            "Developme"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-reactjs-development-internship-at-emendoai1708155046",
+        "companyName": "EmendoAI (San Francisco, United States)",
+        "jobTitle": "Reactjs Development",
+        "skillsRequired": [
+            "Node.js'",
+            " 'ReactJS'",
+            " 'React Native'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-backend-focused-full-stack-development-ai-powered-b2b-saas-internship-at-siddharth-chopda1707112788",
+        "companyName": "Siddharth Chopda",
+        "jobTitle": "Backend-Focused Full Stack Development: AI-Powered B2B SaaS",
+        "skillsRequired": [
+            "Next.js'",
+            " 'PostgreSQL'",
+            " 'Python'",
+            " 'React"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-analysttai1707715945",
+        "companyName": "Analystt.ai",
+        "jobTitle": "Full Stack Development",
+        "skillsRequired": [
+            "JavaScript'",
+            " 'Next.js'",
+            " 'Node.js'",
+            " 'Python"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/java-development-internship-in-ahmedabad-at-orglance-technologies-llp1708575642",
+        "companyName": "OrgLance Technologies LLP",
+        "jobTitle": "Java Development",
+        "skillsRequired": [
+            "Hibernate (Java)'",
+            " 'J2EE'",
+            " 'Java'",
+            " 'Spring MVC"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-php-development-internship-at-oyelabs1707912702",
+        "companyName": "OyeLabs",
+        "jobTitle": "PHP Development",
+        "skillsRequired": [
+            "HTML'",
+            " 'LARAVEL'",
+            " 'MySQL'",
+            " 'PHP"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-printila-services-private-limited1708460241",
+        "companyName": "Printila Services Private Limited",
+        "jobTitle": "Backend Development",
+        "skillsRequired": [
+            "Express.js'",
+            " 'MongoDB'",
+            " 'Node.js'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-wordpress-development-internship-at-myexampapers1708683835",
+        "companyName": "Myexampapers (London, United Kingdom)",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "Digital Marketing'",
+            " 'Email Marketing'",
+            " 'PHP'",
+            " 'Search Engine Optimization (SEO)"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-flutter-development-internship-at-zivaka1706763302",
+        "companyName": "Zivaka",
+        "jobTitle": "Flutter Development",
+        "skillsRequired": [
+            "Dart'",
+            " 'Firebase'",
+            " 'Flutter'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-java-spring-boot-developer-internship-at-odisoft-technology-private-limited1708683233",
+        "companyName": "Odisoft Technology Private Limited",
+        "jobTitle": "Java Spring Boot Developer",
+        "skillsRequired": [
+            "Certificate'",
+            " ' Letter of recommendation'",
+            " ' Flexible work hours'",
+            " ' Job offer"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-sparkar-instagram-ar-filters-programming-internship-at-flippar1708684492",
+        "companyName": "FlippAR",
+        "jobTitle": "SparkAR - Instagram AR Filters Programming",
+        "skillsRequired": [
+            "Certificate'",
+            " ' Letter of recommendation'",
+            " ' Flexible work hours'",
+            " ' 5 days a week"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-it-internships-internship-at-dataset-connect-private-limited1708601996",
+        "companyName": "Dataset Connect Private Limited",
+        "jobTitle": "It Internships",
+        "skillsRequired": [
+            "Certificate'",
+            " ' Letter of recommendation'",
+            " ' Flexible work hours'",
+            " ' 5 days a week"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-flutterflow-no-code-dev-internship-at-next-you-labs1708146550",
+        "companyName": "Next You Labs",
+        "jobTitle": "FlutterFlow (NO-Code DEV)",
+        "skillsRequired": [
+            "Certificate'",
+            " ' Letter of recommendation'",
+            " ' Flexible work hours'",
+            " ' 5 days a week"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-it-support-internship-at-reach-technologies1708104341",
+        "companyName": "Reach Technologies",
+        "jobTitle": "IT Support",
+        "skillsRequired": [
+            "Certificate'",
+            " ' Letter of recommendation'",
+            " ' Flexible work hours'",
+            " ' 5 days a week"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-full-stack-development-internship-at-pyzaql1707982499",
+        "companyName": "PYZAQL",
+        "jobTitle": "Full Stack Development",
+        "skillsRequired": [
+            "Certificate'",
+            " ' Letter of recommendation'",
+            " ' Flexible work hours'",
+            " ' 5 days a week"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-genesis1707796254",
+        "companyName": "Genesis",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "Certificate'",
+            " ' Letter of recommendation'",
+            " ' Flexible work hours'",
+            " ' 5 days a week"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-php-laravel-development-internship-at-across-the-globe-atg1708688376",
+        "companyName": "Across The Globe (ATG)",
+        "jobTitle": "PHP Laravel Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'JavaScript'",
+            " 'LARAVEL'",
+            " 'PHP"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-wordpress-development-internship-at-help-and-hygiene-for-all-foundation1707649425",
+        "companyName": "Help And Hygiene For All Foundation",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'PHP'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-wordpress-development-internship-at-theunpluggedweb1708693633",
+        "companyName": "Theunpluggedweb",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-patilkaki1707628798",
+        "companyName": "PatilKaki",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-react-native-development-internship-at-across-the-globe-atg1707975341",
+        "companyName": "Across The Globe (ATG)",
+        "jobTitle": "React Native Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'React Native"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-wordpress-development-internship-at-khamlou1708687821",
+        "companyName": "Khamlou",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'PHP"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-microsoft-power-bi-internship-at-pianalytix-edutech-private-limted1706258628",
+        "companyName": "Pianalytix Edutech Private Limted",
+        "jobTitle": "Microsoft Power BI",
+        "skillsRequired": [
+            "Business Analysis'",
+            " 'Data Analysis'",
+            " 'Data Analytics'",
+            " 'Power BI"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-webmobi1708418033",
+        "companyName": "Webmobi",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "Bootstrap'",
+            " 'JavaScript'",
+            " 'Next.js'",
+            " 'ReactJS"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-ui-ux-web-developer-internship-at-oyelabs1708344244",
+        "companyName": "OyeLabs",
+        "jobTitle": "UI/UX Web Developer",
+        "skillsRequired": [
+            "Bootstrap'",
+            " 'HTML&CSS'",
+            " 'JavaScript'",
+            " 'User Interface (UI) Development"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-rozirotiwork1707887815",
+        "companyName": "Roziroti.work",
+        "jobTitle": "Front End Development",
+        "skillsRequired": [
+            "Bootstrap'",
+            " 'CSS'",
+            " 'HTML'",
+            " 'JavaScript"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-eduminatti1708413286",
+        "companyName": "Eduminatti",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "Blogging'",
+            " 'Creative Writing'",
+            " 'English Proficiency (Spoken)'",
+            " 'English Proficiency (Written)"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-design-branding-contents-internship-at-expertel-sa-proceedit1708510811",
+        "companyName": "Expertel SA - Proceedit (Barcelona, Espa\u00f1a)",
+        "jobTitle": "Design & Branding Contents",
+        "skillsRequired": [
+            "Animation'",
+            " 'Content Marketing'",
+            " 'Email Marketing'",
+            " 'Video Editing"
+        ],
+        "noOfMissingSkills": 4
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-trainee-nurse-shalby-hospital-ahmedabad-0-to-2-years-111223500381",
+        "companyName": "Shalby Hospitals",
+        "jobTitle": "Trainee Nurse",
+        "skillsRequired": [
+            "ainee nurse",
+            "Healthcare",
+            "Monitoring",
+            "Nursing",
+            "Traini"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-ios-developer-flexiware-solution-private-limited-ahmedabad-0-to-3-years-100420500321",
+        "companyName": "Flexiware Solution",
+        "jobTitle": "iOS Developer",
+        "skillsRequired": [
+            "Swift",
+            "IOS",
+            "io",
+            "development",
+            "ios developme"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-dotnet-developer-mol-tech-solutions-web-development-ahmedabad-0-to-2-years-280723503201",
+        "companyName": "Mol-tech Solutions - Web Development",
+        "jobTitle": "Dotnet Developer",
+        "skillsRequired": [
+            "PS",
+            "Javascript",
+            ".Net",
+            "Dotnet Development",
+            "Developme"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-asp-net-developer-pam-technologies-ahmedabad-0-to-3-years-180822501658",
+        "companyName": "Pam Technologies",
+        "jobTitle": "ASP . NET DEVELOPER",
+        "skillsRequired": [
+            "P.Net",
+            "Development",
+            "Net Development",
+            "ASP",
+            ".N"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-playtheory-labs1707544972",
+        "companyName": "PlayTheory Labs",
+        "jobTitle": "Full Stack Development",
+        "skillsRequired": [
+            "Machine Learning'",
+            " 'MongoDB'",
+            " 'Natural Language Processing (NLP)'",
+            " 'Node.js'",
+            " 'Python"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-php-development-internship-at-rakesh-kumar1708577397",
+        "companyName": "Rakesh Kumar",
+        "jobTitle": "PHP Development",
+        "skillsRequired": [
+            "HTML'",
+            " 'jQuery'",
+            " 'LARAVEL'",
+            " 'MySQL'",
+            " 'PHP"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-reactjs-development-internship-at-radiant-riches-llc1708509796",
+        "companyName": "Radiant Riches LLC",
+        "jobTitle": "Reactjs Development",
+        "skillsRequired": [
+            "HTML'",
+            " 'JavaScript'",
+            " 'Next.js'",
+            " 'ReactJS'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-full-stack-development-internship-at-emitrr1708423234",
+        "companyName": "Emitrr",
+        "jobTitle": "Full Stack Development",
+        "skillsRequired": [
+            "HTML'",
+            " 'JavaScript'",
+            " 'MongoDB'",
+            " 'Node.js'",
+            " 'ReactJS"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-cliffeye1708198402",
+        "companyName": "CliffEye",
+        "jobTitle": "Full Stack Development",
+        "skillsRequired": [
+            "HTML&CSS'",
+            " 'MongoDB'",
+            " 'Node.js'",
+            " 'ReactJS'",
+            " 'TypeScript"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-web-developer-for-fundraising-portal-with-referral-system-internship-at-nayepankh-foundation1707741146",
+        "companyName": "NayePankh Foundation",
+        "jobTitle": "Web Developer For Fundraising Portal With Referral System",
+        "skillsRequired": [
+            "HTML&CSS'",
+            " 'JavaScript'",
+            " 'Node.js'",
+            " 'PHP'",
+            " 'React"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-house-of-couton-private-limited1708422518",
+        "companyName": "House Of Couton Private Limited",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "Flask'",
+            " 'JavaScript'",
+            " 'Node.js'",
+            " 'Python'",
+            " 'ReactJS"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-3w-business-private-limited1707899034",
+        "companyName": "3W Business Private Limited",
+        "jobTitle": "Backend Development",
+        "skillsRequired": [
+            "Express.js'",
+            " 'Java'",
+            " 'MongoDB'",
+            " 'Node.js'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-drona-pay-private-limited1708678423",
+        "companyName": "Drona Pay Private Limited",
+        "jobTitle": "Backend Development",
+        "skillsRequired": [
+            "Docker'",
+            " 'FastAPI'",
+            " 'Linux'",
+            " 'REST API'",
+            " 'Spring MVC"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-flutter-development-internship-at-kartavya-technology1707217875",
+        "companyName": "Kartavya Technology",
+        "jobTitle": "Flutter Development",
+        "skillsRequired": [
+            "Dart'",
+            " 'Figma'",
+            " 'Flutter'",
+            " 'MongoDB'",
+            " 'Node.js"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-flutterflowio-developer-internship-at-mymegaminds1708594436",
+        "companyName": "MyMegaminds",
+        "jobTitle": "FlutterFlow.io Developer",
+        "skillsRequired": [
+            "Cloud Firestore'",
+            " 'Firebase'",
+            " 'Firebase Cloud Messaging'",
+            " 'Flutter'",
+            " 'MongoDB"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-sas-admin-developer-sas-94-viya-4-internship-at-avinyazcom1708323538",
+        "companyName": "Avinyaz.com",
+        "jobTitle": "SAS Admin/Developer SAS 9.4/Viya 4",
+        "skillsRequired": [
+            "Cloud Computing'",
+            " 'Data Analysis'",
+            " 'Python'",
+            " 'SAS'",
+            " 'Shell Scripting"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-booksiey-technologies-private-limited1708423791",
+        "companyName": "Booksiey Technologies Private Limited",
+        "jobTitle": "Full Stack Developer",
+        "skillsRequired": [
+            "CSS'",
+            " 'JavaScript'",
+            " 'Next.js'",
+            " 'Node.js'",
+            " 'ReactJS"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-wordpress-development-internship-at-evondata1707798244",
+        "companyName": "Evondata (Austin, United States)",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'PHP'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-javascript-development-internship-at-pinsaar-software-technologies-private-limited1708417582",
+        "companyName": "Pinsaar Software Technologies Private Limited",
+        "jobTitle": "JavaScript Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'Node.js'",
+            " 'ReactJS"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-mentorboxx1707823715",
+        "companyName": "MentorBoxx",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'Node.js'",
+            " 'ReactJS"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-wordpress-development-internship-at-tyrhino1708678858",
+        "companyName": "Tyrhino",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'Effective Communication'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'PHP"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-printila-services-private-limited1708460199",
+        "companyName": "Printila Services Private Limited",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "Bootstrap'",
+            " 'JavaScript'",
+            " 'MongoDB'",
+            " 'MySQL'",
+            " 'Node.js"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-alemeno1706514170",
+        "companyName": "Alemeno",
+        "jobTitle": "Backend Development",
+        "skillsRequired": [
+            "Bash'",
+            " 'Django'",
+            " 'Docker'",
+            " 'PostgreSQL'",
+            " 'Python"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-peakscale-technologies-private-limited1708059292",
+        "companyName": "PeakScale Technologies Private Limited",
+        "jobTitle": "Full Stack Development",
+        "skillsRequired": [
+            "Angular 7.0'",
+            " 'AngularJS'",
+            " 'Git'",
+            " 'LARAVEL'",
+            " 'MySQL"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-flutter-development-internship-at-futuratech-platform-pvt-ltd1707732633",
+        "companyName": "Futuratech Platform Pvt Ltd",
+        "jobTitle": "Flutter Development",
+        "skillsRequired": [
+            "Android'",
+            " 'Cloud Firestore'",
+            " 'Firebase'",
+            " 'Flutter'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-php-development-internship-at-visanka-technologies-private-limited1708687427",
+        "companyName": "Visanka Technologies Private Limited",
+        "jobTitle": "PHP Development",
+        "skillsRequired": [
+            "APIs'",
+            " 'JSON'",
+            " 'MySQL'",
+            " 'PHP'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 5
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-developer-dotnet-actionedge-research-services-llp-ahmedabad-0-to-3-years-290523500174",
+        "companyName": "ActionEdge Research Services",
+        "jobTitle": "Software Developer ( Dotnet )",
+        "skillsRequired": [
+            "ftware Developer",
+            ". Net",
+            "Development",
+            ".Net",
+            "Software development",
+            "Softwa"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-wordpress-developers-classicus-infotech-ahmedabad-0-to-2-years-301219501917",
+        "companyName": "Classicus Infotech",
+        "jobTitle": "PHP / Wordpress Developers",
+        "skillsRequired": [
+            "ding",
+            "Wordpress",
+            "Javascript",
+            "PHP",
+            "wordpress development",
+            "developme"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-lead-generation-executive-online-bidding-bd-online-bidder-global-websoft-pvt-ltd-ahmedabad-0-to-3-years-131218501807",
+        "companyName": "Global websoft pvt ltd",
+        "jobTitle": "Lead Generation Executive / Online bidding / BD / Online bidder",
+        "skillsRequired": [
+            "ad Generation Executive",
+            "Online bidding",
+            "Bd",
+            "Bidding",
+            "Generation",
+            "Lead generati"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-android-developer-flexiware-solution-private-limited-ahmedabad-0-to-3-years-100420500320",
+        "companyName": "Flexiware Solution",
+        "jobTitle": "Android Developer",
+        "skillsRequired": [
+            "ON",
+            "Android SDK",
+            "sdk",
+            "android application development",
+            "development",
+            "andro"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-seo-trainee-concotech-technologies-ahmedabad-0-to-2-years-150319501885",
+        "companyName": "Concotech Technologies",
+        "jobTitle": "SEO Trainee",
+        "skillsRequired": [
+            "O Trainee",
+            "Forum posting",
+            "Training",
+            "Posting",
+            "SEO",
+            "Po"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-java-development-internship-at-pianalytix-edutech-private-limted1706258715",
+        "companyName": "Pianalytix Edutech Private Limted",
+        "jobTitle": "Java Development",
+        "skillsRequired": [
+            "Hibernate (Java)'",
+            " 'J2EE'",
+            " 'Java'",
+            " 'JSP'",
+            " 'MySQL'",
+            " 'Spring MVC"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-react-native-development-internship-at-technoculture-research1707886927",
+        "companyName": "Technoculture Research",
+        "jobTitle": "React Native Development",
+        "skillsRequired": [
+            "GitHub'",
+            " 'JavaScript'",
+            " 'ReactJS'",
+            " 'React Native'",
+            " 'Tailwind CSS'",
+            " 'TypeScript"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-mern-stack-development-internship-at-across-the-globe-atg1708691641",
+        "companyName": "Across The Globe (ATG)",
+        "jobTitle": "MERN Stack Development",
+        "skillsRequired": [
+            "Express.js'",
+            " 'GitHub'",
+            " 'MongoDB'",
+            " 'Node.js'",
+            " 'ReactJS'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-backend-development-ai-powered-b2b-saas-internship-at-siddharth-chopda1707112699",
+        "companyName": "Siddharth Chopda",
+        "jobTitle": "Backend Development: AI-Powered B2B SaaS",
+        "skillsRequired": [
+            "Effective Communication'",
+            " 'FastAPI'",
+            " 'Model View Controller(MVC)'",
+            " 'PostgreSQL'",
+            " 'Python'",
+            " 'SQL"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-wordpress-development-internship-at-girl-power-talk1708501060",
+        "companyName": "Girl Power Talk",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'jQuery'",
+            " 'PHP'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-wordpress-development-internship-at-the-learn-cloud1708627637",
+        "companyName": "The Learn Cloud",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'PHP'",
+            " 'Search Engine Optimization (SEO)'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-wordpress-development-internship-at-webalar1707978545",
+        "companyName": "Webalar",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'PHP'",
+            " 'Search Engine Optimization (SEO)'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/wordpress-development-internship-in-ahmedabad-at-kyogg1707712003",
+        "companyName": "Kyogg",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'PHP'",
+            " 'Search Engine Optimization (SEO)'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-mbs-studios-private-limited1708417878",
+        "companyName": "MBS STUDIOS PRIVATE LIMITED",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'MySQL'",
+            " 'PHP'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-wordpress-development-internship-at-minus-equals-plus1708068531",
+        "companyName": "Minus Equals Plus",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'JSON'",
+            " 'PHP'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-front-end-development-internship-at-ayush-kanodia1708416336",
+        "companyName": "Ayush Kanodia (San Francisco, United States)",
+        "jobTitle": "Front End Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'Figma'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'ReactJS'",
+            " 'Tailwind CSS"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-naveen-kumar1708341883",
+        "companyName": "Naveen Kumar",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "Bootstrap'",
+            " 'HTML&CSS'",
+            " 'Next.js'",
+            " 'Node.js'",
+            " 'React'",
+            " 'ReactJS"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-reactjs-development-internship-at-quarterstack-technologies-private-limited1708417484",
+        "companyName": "QUARTERSTACK TECHNOLOGIES PRIVATE LIMITED",
+        "jobTitle": "Reactjs Development",
+        "skillsRequired": [
+            "Bootstrap'",
+            " 'CSS'",
+            " 'Git'",
+            " 'React'",
+            " 'Redux'",
+            " 'Tailwind CSS"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-research-tech-internship-at-bhagi-rath1706526575",
+        "companyName": "Web3 Project",
+        "jobTitle": "Research (Tech)",
+        "skillsRequired": [
+            "Blockchain'",
+            " 'Ethereum'",
+            " 'GitHub'",
+            " 'JavaScript'",
+            " 'Next.js'",
+            " 'Research and Analytics"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-flutter-development-internship-at-quantum-it1708666172",
+        "companyName": "Quantum IT",
+        "jobTitle": "Flutter Development",
+        "skillsRequired": [
+            "Android'",
+            " 'Cloud Firestore'",
+            " 'Dart'",
+            " 'Firebase'",
+            " 'Flutter'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-celebrare1708509698",
+        "companyName": "Celebrare",
+        "jobTitle": "Python Development",
+        "skillsRequired": [
+            "Amazon Web Server (AWS)'",
+            " 'CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'Machine Learning'",
+            " 'Python"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-flutter-development-internship-at-ostello-india-private-limited1708020921",
+        "companyName": "Ostello India Private Limited",
+        "jobTitle": "Flutter Development",
+        "skillsRequired": [
+            "Amazon Web Server (AWS)'",
+            " 'Android'",
+            " 'Dart'",
+            " 'Flutter'",
+            " 'iOS'",
+            " 'Node.js"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-wordpress-development-internship-at-rgb-designers1708577591",
+        "companyName": "RGB Designers",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "Adobe XD'",
+            " 'Figma'",
+            " 'HTML'",
+            " 'Search Engine Optimization (SEO)'",
+            " 'Tamil Proficiency (Spoken)'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 6
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-developer-dezign-brain-ahmedabad-0-to-1-years-161221500419",
+        "companyName": "Dezign Brain",
+        "jobTitle": "PHP Developer",
+        "skillsRequired": [
+            "rdpress",
+            "Core Php",
+            "Php Developer",
+            "php",
+            "core",
+            "development",
+            "php developme"
+        ],
+        "noOfMissingSkills": 7
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-programmer-ii-engineer-aradhna-enterprise-pune-ahmedabad-mumbai-all-areas-0-to-5-years-110224001388",
+        "companyName": "Aradhna Enterprise",
+        "jobTitle": "Software Programmer II Engineer",
+        "skillsRequired": [
+            "ogramming",
+            "Languages",
+            "Software Engineering",
+            "Software Programmer",
+            "Software Programming",
+            "Application Programming",
+            "B"
+        ],
+        "noOfMissingSkills": 7
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-iphone-developer-aum-infotech-pvt-ltd-ahmedabad-0-to-1-years-050216502213",
+        "companyName": "AUM Infotech Pvt. Ltd.",
+        "jobTitle": "IPhone Developer",
+        "skillsRequired": [
+            "evelopment",
+            "android",
+            "xml parser",
+            "roid",
+            "iphone",
+            "objective c",
+            "codi"
+        ],
+        "noOfMissingSkills": 7
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-web-developers-flexiware-solution-private-limited-ahmedabad-0-to-4-years-100420500322",
+        "companyName": "Flexiware Solution",
+        "jobTitle": "Web Developers",
+        "skillsRequired": [
+            "ML;Javascript",
+            "jQuery",
+            "Web technologies",
+            "web development",
+            "html",
+            "development",
+            "javascri"
+        ],
+        "noOfMissingSkills": 7
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-reactjs-development-internship-at-pianalytix-edutech-private-limted1706258755",
+        "companyName": "Pianalytix Edutech Private Limted",
+        "jobTitle": "Reactjs Development",
+        "skillsRequired": [
+            "HTML'",
+            " 'JavaScript'",
+            " 'Node.js'",
+            " 'ReactJS'",
+            " 'React Native'",
+            " 'Redux'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 7
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-dobby-ads1707823256",
+        "companyName": "Dobby Ads",
+        "jobTitle": "Full Stack Development",
+        "skillsRequired": [
+            "Express.js'",
+            " 'Git'",
+            " 'MEAN/MERN Stack'",
+            " 'MongoDB'",
+            " 'ReactJS'",
+            " 'Redux'",
+            " 'TypeScript"
+        ],
+        "noOfMissingSkills": 7
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-flutter-development-internship-at-nextedge-labs1706330341",
+        "companyName": "NextEdge Labs",
+        "jobTitle": "Flutter Development",
+        "skillsRequired": [
+            "Cloud Firestore'",
+            " 'Dart'",
+            " 'Firebase'",
+            " 'Flutter'",
+            " 'MongoDB'",
+            " 'Node.js'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 7
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-php-development-internship-at-girl-power-talk1708502201",
+        "companyName": "Girl Power Talk",
+        "jobTitle": "PHP Development",
+        "skillsRequired": [
+            "CMS'",
+            " 'CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'JSON'",
+            " 'PHP'",
+            " 'XML"
+        ],
+        "noOfMissingSkills": 7
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-buddha-education-association-incorporation1707811032",
+        "companyName": "Buddha Education Association Incorporation",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "C++ Programming'",
+            " 'Java'",
+            " 'JSON'",
+            " 'Node.js'",
+            " 'ReactJS'",
+            " 'SQL'",
+            " 'Webflow"
+        ],
+        "noOfMissingSkills": 7
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-web3-blockchain-technical-writer-internship-at-quillhash1708072502",
+        "companyName": "Quillhash",
+        "jobTitle": "Web3/Blockchain Technical Writer",
+        "skillsRequired": [
+            "Blockchain'",
+            " 'Blogging'",
+            " 'Content Writing'",
+            " 'Creative Writing'",
+            " 'English Proficiency (Written)'",
+            " 'Search Engine Optimization (SEO)'",
+            " 'Solidity"
+        ],
+        "noOfMissingSkills": 7
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-xeta-analytics-private-limited1708113584",
+        "companyName": "Xeta Analytics Private Limited",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "Angular 7.0'",
+            " 'HTML&CSS'",
+            " 'JavaScript'",
+            " 'MySQL'",
+            " 'ReactJS'",
+            " 'REST API'",
+            " 'Tailwind CSS"
+        ],
+        "noOfMissingSkills": 7
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-faclon1707742446",
+        "companyName": "Faclon",
+        "jobTitle": "Front End Development",
+        "skillsRequired": [
+            "Angular 7.0'",
+            " 'CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'ReactJS'",
+            " 'TypeScript'",
+            " 'Vue Js"
+        ],
+        "noOfMissingSkills": 7
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-flutter-development-internship-at-printila-services-private-limited1708494997",
+        "companyName": "Printila Services Private Limited",
+        "jobTitle": "Flutter Development",
+        "skillsRequired": [
+            "Android'",
+            " 'Cloud Firestore'",
+            " 'Dart'",
+            " 'Firebase'",
+            " 'Flutter'",
+            " 'iOS'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 7
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-flutter-development-internship-at-coding-junior1708097322",
+        "companyName": "Coding Junior",
+        "jobTitle": "Flutter Development",
+        "skillsRequired": [
+            "Android'",
+            " 'Cloud Firestore'",
+            " 'Dart'",
+            " 'Firebase'",
+            " 'Flutter'",
+            " 'iOS'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 7
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-wordpress-page-design-web-graphics-internship-at-adcortex1708591436",
+        "companyName": "AdCortex",
+        "jobTitle": "WordPress Page Design & Web Graphics",
+        "skillsRequired": [
+            "Adobe Illustrator'",
+            " 'Adobe Photoshop'",
+            " 'Canva'",
+            " 'English Proficiency (Written)'",
+            " 'Search Engine Optimization (SEO)'",
+            " 'UI & UX Design'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 7
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-laravel-development-internship-at-the-devisors-technologies1708402169",
+        "companyName": "The Devisors Technologies",
+        "jobTitle": "Laravel Development",
+        "skillsRequired": [
+            "APIs'",
+            " 'Git'",
+            " 'GitHub'",
+            " 'LARAVEL'",
+            " 'MySQL'",
+            " 'PHP'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 7
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/php-development-internship-in-ahmedabad-at-bins-computer1708336512",
+        "companyName": "BinS Computer",
+        "jobTitle": "PHP Development",
+        "skillsRequired": [
+            "AJAX'",
+            " 'HTML'",
+            " 'HTML&CSS'",
+            " 'JavaScript'",
+            " 'jQuery'",
+            " 'MySQL'",
+            " 'PHP"
+        ],
+        "noOfMissingSkills": 7
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-embedded-engineer-oob-automation-ahmedabad-0-to-2-years-090323502494",
+        "companyName": "OOB Automation",
+        "jobTitle": "Embedded Engineer",
+        "skillsRequired": [
+            "velopment testing",
+            "Hardware design",
+            "Design development",
+            "Hardware",
+            "Firmware",
+            "Microchip",
+            "Testing",
+            "Software testi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-ios-app-developer-digistretch-solutions-pvt-ltd-ahmedabad-other-other-0-to-2-years-210717500525",
+        "companyName": "Digistretch Solutions",
+        "jobTitle": "iOS App Developer",
+        "skillsRequired": [
+            "velopment",
+            "website",
+            "C",
+            "code",
+            "Web development",
+            "mobile",
+            "jQuery mobile",
+            "I"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-developer-webdimensions-ahmedabad-0-to-2-years-030118501943",
+        "companyName": "Webdimensions",
+        "jobTitle": "PHP Developer",
+        "skillsRequired": [
+            "velopment",
+            "jQuery",
+            "Development Manager",
+            "Technical",
+            "MySQL",
+            "PHP",
+            "Open source",
+            "Business Executi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-ios-developer-pleasant-inc-ahmedabad-0-to-1-years-030118501147",
+        "companyName": "Pleasant Inc.",
+        "jobTitle": "IOS Developer",
+        "skillsRequired": [
+            "velopment",
+            "c",
+            "Json/Xml Parser",
+            "android",
+            "Objective C",
+            "it",
+            "ios",
+            "Date picker and Picker controll"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-developer-hupp-technologies-ahmedabad-0-to-2-years-011021500826",
+        "companyName": "Hupp Technologies",
+        "jobTitle": "PHP Developer",
+        "skillsRequired": [
+            "vascript",
+            "Jquery",
+            "Laravel",
+            "Codeigniter",
+            "Core Php",
+            "Php Developer",
+            "Web Services",
+            "PHP Developme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-trainee-consultant-yantraadhigam-labs-pvt-ltd-ahmedabad-0-to-1-years-280722500592",
+        "companyName": "Yantraadhigam Labs",
+        "jobTitle": "Trainee Consultant",
+        "skillsRequired": [
+            "va EE",
+            "Hibernate",
+            "Spring framework",
+            "Oracle SQL",
+            "Memory management",
+            "transaction management",
+            "Javascript",
+            "HT"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-java-developers-balasundaram-santosh-hyderabad-secunderabad-ahmedabad-mumbai-all-areas-0-to-5-years-110323003788",
+        "companyName": "Balasundaram Santosh",
+        "jobTitle": "Java Developers\n",
+        "skillsRequired": [
+            "va Development",
+            "Java",
+            "Core Java",
+            "J2Ee Development",
+            "Javascript",
+            "Java Programming",
+            "Full Stack",
+            "J2"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-dot-net-saltriver-infosystems-pvt-ltd-ahmedabad-ahmedabad-0-to-3-years-030216500268",
+        "companyName": "SALTRIVER INFOSYSTEMS Pvt. Ltd.",
+        "jobTitle": "Dot Net",
+        "skillsRequired": [
+            "va",
+            "vb net",
+            "visual studio 2010",
+            "mca",
+            "mvc",
+            "visual sic6 0",
+            "good",
+            "jque"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-engineer-cravita-technologies-bhavnagar-gujarat-ratlam-madhya-pradesh-gandhinagar-gujarat-jamnagar-gujarat-ahmedabad-rajkot-gujarat-surat-gujarat-vadodara-gujarat-0-to-0-years-090224007876",
+        "companyName": "Cravita Technologies",
+        "jobTitle": "Engineer",
+        "skillsRequired": [
+            "va",
+            "Programming",
+            "Computer Science",
+            "Python",
+            "CSS",
+            "Software Testing",
+            "HTML",
+            "Languag"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-developer-nxc-controls-ahmedabad-0-to-2-years-250321501626",
+        "companyName": "NXC Controls",
+        "jobTitle": "PHP Developer",
+        "skillsRequired": [
+            "upal",
+            "OSCommerce",
+            "Coding",
+            "Javascript",
+            "PHP",
+            "HTML",
+            "MVC",
+            "Open sour"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-sr-php-developer-jr-php-developer-connectionphase-ahmedabad-0-to-5-years-200317500134",
+        "companyName": "Connectionphase",
+        "jobTitle": "Sr.PHP Developer/ Jr.PHP Developer",
+        "skillsRequired": [
+            "upal",
+            "HR Executive",
+            "jQuery",
+            "MySQL",
+            "PHP",
+            "WordpressISO",
+            "Business Executive",
+            "Joom"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-odoo-python-developer-probuse-consulting-service-ahmedabad-0-to-1-years-190922501078",
+        "companyName": "Probuse Consulting Service",
+        "jobTitle": "Odoo Python Developer",
+        "skillsRequired": [
+            "untu",
+            "Training",
+            "jQuery",
+            "Consulting",
+            "Banking",
+            "Javascript",
+            "Business management",
+            "Application developme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-angular-js-developer-post-a-resume-hr-consultancy-ahmedabad-0-to-3-years-141122502105",
+        "companyName": "POST A RESUME HR Consultancy",
+        "jobTitle": "Angular JS Developer",
+        "skillsRequired": [
+            "uery",
+            "XML",
+            "Wordpress",
+            "Web development",
+            "Javascript",
+            "PHP",
+            "HTML",
+            "S"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-jr-web-developer-post-a-resume-hr-consultancy-ahmedabad-0-to-3-years-200722500087",
+        "companyName": "POST A RESUME HR Consultancy",
+        "jobTitle": "Jr . Web Developer",
+        "skillsRequired": [
+            "uery",
+            "XML",
+            "MySQL",
+            "Wordpress",
+            "Javascript",
+            "PHP",
+            "HTML",
+            "Application developme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-dot-net-developer-post-a-resume-hr-consultancy-ahmedabad-0-to-5-years-020123501220",
+        "companyName": "POST A RESUME HR Consultancy",
+        "jobTitle": "Dot Net Developer",
+        "skillsRequired": [
+            "uery",
+            "XML",
+            "MySQL",
+            "Javascript",
+            ".Net",
+            "PHP",
+            "HTML",
+            "W"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-developer-myriad-solutionz-ahmedabad-0-to-2-years-230821500900",
+        "companyName": "Myriad Solutionz",
+        "jobTitle": "Php Developer",
+        "skillsRequired": [
+            "uery",
+            "Wordpress",
+            "Javascript",
+            "CMS",
+            "PHP",
+            "HTML",
+            "Joomla",
+            "S"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-laravel-developer-aipxperts-technolabs-pvt-ltd-ahmedabad-0-to-3-years-131023500057",
+        "companyName": "Aipxperts Technolabs",
+        "jobTitle": "PHP Laravel Developer",
+        "skillsRequired": [
+            "uery",
+            "Version control",
+            "WAMP",
+            "Social media",
+            "Subversion",
+            "MySQL",
+            "Javascript",
+            "P"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-dot-net-developer-post-a-resume-hr-consultancy-ahmedabad-0-to-5-years-010322501324",
+        "companyName": "Post A Resume",
+        "jobTitle": "Dot Net Developer",
+        "skillsRequired": [
+            "uery",
+            "SOA",
+            "XML",
+            "Javascript",
+            ".Net",
+            "HTML",
+            "XSLT",
+            "W"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-trainee-icreatives-solutions-ahmedabad-0-to-4-years-221122503538",
+        "companyName": "Icreatives Solutions",
+        "jobTitle": "PHP Trainee",
+        "skillsRequired": [
+            "uery",
+            "PHP Trainee",
+            "Javascript",
+            "Stress management",
+            "Database",
+            "PHP",
+            "DBMS",
+            "Traini"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-developer-tech-celerity-ahmedabad-0-to-4-years-270122502334",
+        "companyName": "Tech Celerity",
+        "jobTitle": "PHP Developer",
+        "skillsRequired": [
+            "uery",
+            "MySQL",
+            "Javascript",
+            "CMS",
+            "PHP",
+            "CakePHP",
+            "Open source",
+            "SD"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-freshers-cognisun-infotech-llp-hyderabad-secunderabad-ahmedabad-0-to-2-years-071020500305",
+        "companyName": "Cognisun",
+        "jobTitle": "Freshers",
+        "skillsRequired": [
+            "uery",
+            "MIS",
+            "MySQL",
+            "Javascript",
+            "PHP",
+            "HTML",
+            "MVC",
+            "S"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-web-developer-net-malay-infotech-pvt-ltd-ahmedabad-0-to-2-years-090823500429",
+        "companyName": "Malay Infotech",
+        "jobTitle": "Web Developer .Net",
+        "skillsRequired": [
+            "uery",
+            "LINQ",
+            "RDBMS",
+            "XML",
+            "Entity framework",
+            "HTML",
+            "JSON",
+            "M"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-mern-stack-developer-quixom-technology-ahmedabad-0-to-3-years-160124500837",
+        "companyName": "Quixom",
+        "jobTitle": "MERN Stack Developer",
+        "skillsRequired": [
+            "uery",
+            "GIT",
+            "MySQL",
+            "Agile",
+            "HTML",
+            "JSON",
+            "application architecture",
+            "Middlewa"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-front-end-developer-mantras2success-consultants-ahmedabad-0-to-4-years-130723500649",
+        "companyName": "Mantras2Success Consultants",
+        "jobTitle": "Front End Developer",
+        "skillsRequired": [
+            "uery",
+            "Front end",
+            "MySQL",
+            "Javascript",
+            "Agile",
+            "PHP",
+            "HTML",
+            "Seleni"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-front-end-developer-alps-web-solutions-ahmedabad-0-to-2-years-230821501025",
+        "companyName": "Alps Web Solutions",
+        "jobTitle": "Front-End Developer",
+        "skillsRequired": [
+            "uery",
+            "Front end",
+            "GIT",
+            "Web technologies",
+            "GIMP",
+            "Wordpress",
+            "Javascript",
+            "Photosh"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-developers-webdimensions-ahmedabad-0-to-2-years-250619500527",
+        "companyName": "Webdimensions",
+        "jobTitle": "PHP Developers",
+        "skillsRequired": [
+            "uery",
+            "Development Manager",
+            "MySQL",
+            "Javascript",
+            "PHP",
+            "Open source",
+            "Core PHP",
+            "manageme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-developer-web-mavens-ahmedabad-0-to-1-years-070721500124",
+        "companyName": "Web Mavens",
+        "jobTitle": "PHP Developer",
+        "skillsRequired": [
+            "uery",
+            "Coding",
+            "MySQL",
+            "Web development",
+            "PHP",
+            "XHTML",
+            "MVC",
+            "Open sour"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-fresher-software-engineer-net-infinium-global-solutions-ahmedabad-0-to-2-years-260723502507",
+        "companyName": "Infinium Global Solutions",
+        "jobTitle": "Fresher Software Engineer .NET",
+        "skillsRequired": [
+            "uery",
+            "C",
+            "Database design",
+            "html5",
+            "Web development",
+            "Javascript",
+            "Windows",
+            "M"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-wordpress-developer-world-wide-web-india-ahmedabad-0-to-2-years-220323500707",
+        "companyName": "World Wide Web India",
+        "jobTitle": "Wordpress developer",
+        "skillsRequired": [
+            "uery",
+            "Bidding",
+            "Coding",
+            "Illustrator",
+            "MySQL",
+            "Wordpress",
+            "HTML",
+            "M"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-jr-devops-engineer-geekmindz-solutions-llp-ahmedabad-0-to-4-years-190221500247",
+        "companyName": "Geekmindz Solutions",
+        "jobTitle": "Jr. DevOps Engineer",
+        "skillsRequired": [
+            "tomation",
+            "GIT",
+            "PDF",
+            "Linux",
+            "Networking",
+            "Coding",
+            "Configuration management",
+            "Windo"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-developer-oob-automation-ahmedabad-0-to-1-years-090323502495",
+        "companyName": "OOB Automation",
+        "jobTitle": "PHP Developer",
+        "skillsRequired": [
+            "tomation",
+            "Coding",
+            "MVC architecture",
+            "Manager Technology",
+            "PHP",
+            "Architecture",
+            "Development",
+            "M"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-mobile-app-developer-android-developer-arth-infosoft-pvt-ltd-ahmedabad-0-to-2-years-070918500699",
+        "companyName": "Arth Infosoft",
+        "jobTitle": "Mobile App Developer- Android Developer",
+        "skillsRequired": [
+            "tabase",
+            "MySQL",
+            "SQLite",
+            "android",
+            "android studio",
+            "mobile",
+            "developer",
+            "Android S"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-python-developer-quixom-technology-ahmedabad-0-to-3-years-160124500839",
+        "companyName": "Quixom",
+        "jobTitle": "Python Developer",
+        "skillsRequired": [
+            "ta analysis",
+            "Front end",
+            "Version control",
+            "GIT",
+            "HP data protector",
+            "Postgresql",
+            "Django",
+            "MyS"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-dot-net-saltriver-infosystems-pvt-ltd-ahmedabad-ahmedabad-0-to-3-years-090915500449",
+        "companyName": "SALTRIVER INFOSYSTEMS Pvt. Ltd.",
+        "jobTitle": "Dot Net",
+        "skillsRequired": [
+            "sual basic6 0",
+            "java",
+            "good communication skills",
+            "visual studio 2010",
+            "mca",
+            "visual basic",
+            "mvc",
+            "trav"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-dot-net-saltriver-infosystems-pvt-ltd-ahmedabad-0-to-3-years-210715502661",
+        "companyName": "SALTRIVER INFOSYSTEMS Pvt. Ltd.",
+        "jobTitle": "Dot Net",
+        "skillsRequired": [
+            "sual basic6 0",
+            "java",
+            "good communication skills",
+            "sqlserver",
+            "visual studio 2010",
+            "mca",
+            "travel",
+            "jque"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-dot-net-saltriver-infosystems-pvt-ltd-ahmedabad-0-to-3-years-250417507227",
+        "companyName": "SALTRIVER INFOSYSTEMS Pvt. Ltd.",
+        "jobTitle": "Dot Net",
+        "skillsRequired": [
+            "sual basic6 0",
+            "good communication skills",
+            "c",
+            "vb net",
+            "java script",
+            "travel",
+            "dot net",
+            "jque"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-sales-manager-mantras2success-consultants-ahmedabad-0-to-3-years-200423501433",
+        "companyName": "Mantras2Success Consultants",
+        "jobTitle": "Sales Manager",
+        "skillsRequired": [
+            "sting",
+            "Channel sales",
+            "Web development",
+            "Agile",
+            "SEM",
+            "SEO",
+            "Digital marketing",
+            "Cateri"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-developer-ii-tester-aradhna-enterprise-pune-ahmedabad-mumbai-all-areas-0-to-5-years-110224001380",
+        "companyName": "Aradhna Enterprise",
+        "jobTitle": "Software Developer II Tester",
+        "skillsRequired": [
+            "st Engineering",
+            "Software Testing",
+            "Software Development",
+            "Software Engineering",
+            "Software Design",
+            "Embedded C",
+            "Ruby Rails",
+            "VC"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-sepg-executive-teksun-microsys-pvt-ltd-ahmedabad-0-to-1-years-190224500046",
+        "companyName": "Teksun",
+        "jobTitle": "SEPG Executive",
+        "skillsRequired": [
+            "sk assessment",
+            "project management",
+            "iso",
+            "quality control",
+            "quality audit",
+            "production",
+            "documentation",
+            "process improveme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-jr-nodejs-developer-ais-technolabs-pvt-ltd-ahmedabad-0-to-1-years-250124500166",
+        "companyName": "AIS Technolabs",
+        "jobTitle": "Jr Nodejs Developer",
+        "skillsRequired": [
+            "sic",
+            "Usage",
+            "CSS",
+            "OOPS",
+            "Javascript",
+            "Programming",
+            "Data structures",
+            "HT"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-support-arth-infosoft-pvt-ltd-ahmedabad-0-to-1-years-260219502433",
+        "companyName": "Arth Infosoft",
+        "jobTitle": "Software Support",
+        "skillsRequired": [
+            "sic",
+            "Networking",
+            "Software support",
+            "Manager Technology",
+            "Customer complaints",
+            "Management",
+            "Operations",
+            "Business Executi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-programmer-site-support-engineer-mycityband-hyderabad-secunderabad-ahmedabad-0-to-2-years-270220500036",
+        "companyName": "mycityband",
+        "jobTitle": "Programmer cum Site support engineer",
+        "skillsRequired": [
+            "sic",
+            "MS SQL",
+            "Networking",
+            "Programming",
+            "Hardware",
+            "VB",
+            "SQL",
+            "Progr"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-android-developer-interns-teksun-microsys-pvt-ltd-ahmedabad-0-to-1-years-041223500669",
+        "companyName": "Teksun",
+        "jobTitle": "Android Developer ( Interns )",
+        "skillsRequired": [
+            "sic",
+            "GIT",
+            "Intern",
+            "OOPS",
+            "Cloud",
+            "android studio",
+            "Android",
+            "Developme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-jr-reactnative-developer-ais-technolabs-pvt-ltd-ahmedabad-0-to-1-years-250124500167",
+        "companyName": "AIS Technolabs",
+        "jobTitle": "Jr Reactnative Developer",
+        "skillsRequired": [
+            "sic",
+            "Core Java",
+            "Usage",
+            "jQuery",
+            "OOPS",
+            "Javascript",
+            "Scheduling",
+            "Andro"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-engineer-markteq708-iscon-elegance-ahmedabad-0-to-5-years-311216500055",
+        "companyName": "Markteq708 Iscon Elegance",
+        "jobTitle": "Software Engineer",
+        "skillsRequired": [
+            "sembly language",
+            "development",
+            "C",
+            "technical",
+            "software",
+            "developing",
+            "HTML",
+            "S"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-support-requirement-arth-infosoft-pvt-ltd-ahmedabad-0-to-1-years-070918500697",
+        "companyName": "Arth Infosoft",
+        "jobTitle": "Software Support Requirement",
+        "skillsRequired": [
+            "sembly language",
+            "JavaScript",
+            ".NET",
+            "HTML",
+            "Oracle",
+            "Python",
+            "SQL",
+            "Software suppo"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-developer-java-csp-ahmedabad-0-to-3-years-160218500507",
+        "companyName": "Customer Service Point (CSP)",
+        "jobTitle": "Software developer -Java",
+        "skillsRequired": [
+            "sembly language",
+            "",
+            " C",
+            "HTML",
+            "it",
+            "SQL",
+            "Six Sigma",
+            "P"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-developer-cogentcommerce-ahmedabad-0-to-1-years-161221500454",
+        "companyName": "Cogent Commerce",
+        "jobTitle": "Php Developer",
+        "skillsRequired": [
+            "s",
+            "Open Source",
+            "Mysql",
+            "Wordpress",
+            "Javascript",
+            "Object Oriented Programming",
+            "Core Php",
+            "Php Develop"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-jr-node-js-developer-elite-corporate-solutions-private-limited-ahmedabad-0-to-5-years-270423500873",
+        "companyName": "Elite Corporate Solutions",
+        "jobTitle": "Jr. Node JS Developer",
+        "skillsRequired": [
+            "rvice Lead",
+            "Lead generation",
+            "github",
+            "Automation testing",
+            "Version control",
+            "GIT",
+            "Javascript",
+            "E-commer"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-asp-net-developer-icast-erp-ahmedabad-0-to-1-years-290419500182",
+        "companyName": "Icast Erp",
+        "jobTitle": "ASP . NET Developer",
+        "skillsRequired": [
+            "rver",
+            "ERP",
+            "Architecture",
+            "level",
+            "Winforms",
+            "SQL",
+            "Front end",
+            "applicati"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-android-developer-hexabrain-technologies-private-limited-ahmedabad-0-to-5-years-110423500629",
+        "companyName": "Hexabrain Technologies",
+        "jobTitle": "Android Developer",
+        "skillsRequired": [
+            "rsion control",
+            "Publishing",
+            "GIT",
+            "User interface designing",
+            "Debugging",
+            "SQLite",
+            "Agile",
+            "Unit testi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-android-developer-wadprog-ahmedabad-0-to-2-years-091222500699",
+        "companyName": "Wadprog",
+        "jobTitle": "ANDROID DEVELOPER",
+        "skillsRequired": [
+            "rformance tuning",
+            "Social media",
+            "SQLite",
+            "Programming",
+            "Unit testing",
+            "Android SDK",
+            "performance",
+            "andro"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-dot-net-developer-cavitak-marketing-private-limited-ahmedabad-0-to-1-years-190124500566",
+        "companyName": "Cavitak Marketing",
+        "jobTitle": "Dot NET Developer",
+        "skillsRequired": [
+            "rformance tuning",
+            "HTML;Javascript",
+            "MS SQL",
+            "Software design",
+            "Web technologies",
+            "VB SCRIPT",
+            "Agile development",
+            "MyS"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-dot-net-developer-diyan-technologies-llp-ahmedabad-0-to-3-years-050922501715",
+        "companyName": "Diyan Technologies",
+        "jobTitle": "Dot Net Developer",
+        "skillsRequired": [
+            "rformance tuning",
+            "Coding",
+            "MySQL",
+            "Wordpress",
+            "Web development",
+            "PHP",
+            "Animation",
+            "M"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-jr-ios-developer-siya-infotech-solutions-pvt-ltd-ahmedabad-0-to-2-years-050723500664",
+        "companyName": "Siya Infotech Solutions Pvt.Ltd",
+        "jobTitle": "Jr. iOS Developer",
+        "skillsRequired": [
+            "rformance tuning",
+            "CVS",
+            "Bluetooth",
+            "GIT",
+            "Agile",
+            "Animation",
+            "Scrum",
+            "Unit testi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-android-developer-mm-staffing-career-consultants-private-limited-ahmedabad-0-to-7-years-081222503197",
+        "companyName": "MM STAFFING CAREER CONSULTANTS PRIVATE LIMITED",
+        "jobTitle": "Android Developer",
+        "skillsRequired": [
+            "rformance tuning",
+            "Backend",
+            "Usage",
+            "GIT",
+            "User interface designing",
+            "Cloud",
+            "Outsourcing",
+            "Senso"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-flutter-developer-swansoftwebsolutions-ahmedabad-0-to-1-years-160623501776",
+        "companyName": "Swan Softweb",
+        "jobTitle": "Flutter Developer",
+        "skillsRequired": [
+            "rformance tuning",
+            "Automation testing",
+            "GIT",
+            "Version control",
+            "User interface designing",
+            "Agile development",
+            "Swift",
+            "I"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-laravel-developer-citrusbug-technolabs-ahmedabad-0-to-2-years-250723501524",
+        "companyName": "Citrusbug Technolabs",
+        "jobTitle": "PHP Laravel Developer",
+        "skillsRequired": [
+            "rformance tuning",
+            "Automation",
+            "Backend",
+            "Front end",
+            "Django",
+            "MySQL",
+            "Agile",
+            "P"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-ios-developer-oob-automation-ahmedabad-0-to-2-years-100323503085",
+        "companyName": "OOB Automation",
+        "jobTitle": "IOS developer",
+        "skillsRequired": [
+            "rformance tuning",
+            "Animation",
+            "Swift",
+            "IOS",
+            "Performance",
+            "Development",
+            "IOS Development",
+            ""
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-java-developer-mm-staffing-career-consultants-private-limited-ahmedabad-0-to-4-years-250323500739",
+        "companyName": "Mm Staffing & Career Consultants",
+        "jobTitle": "Java Developer",
+        "skillsRequired": [
+            "re Java",
+            "ERP",
+            "Construction",
+            "Coding",
+            "SAAS",
+            "OOPS",
+            "Healthcare",
+            "Consumer electroni"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-wordpress-developer-cloud-staff-solutions-lucknow-ahmedabad-surat-0-to-1-years-160224904427",
+        "companyName": "CLoud Staff Solutions",
+        "jobTitle": "WordPress Developer",
+        "skillsRequired": [
+            "rdpress",
+            "woocommerce",
+            "front end",
+            "jQuery",
+            "plugins",
+            "JavaScript",
+            "HTML5",
+            "site integrati"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-remote-wordpress-web-development-internship-for-all-gao-group-kolkata-hyderabad-ahmedabad-chennai-0-to-5-years-230224015297",
+        "companyName": "GAO Group",
+        "jobTitle": "Remote- Wordpress Web Development Internship For All",
+        "skillsRequired": [
+            "rdpress",
+            "Plugin Development",
+            "Wordpress CMS",
+            "Plugin Customization",
+            "Wordpress Development",
+            "Wordpress Themes",
+            "Theme Development",
+            "Web technologi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-remote-wordpress-web-development-internship-for-all-gao-group-hyderabad-ahmedabad-chennai-0-to-5-years-120224005570",
+        "companyName": "GAO Group",
+        "jobTitle": "Remote- Wordpress Web Development Internship For All",
+        "skillsRequired": [
+            "rdpress",
+            "Plugin Development",
+            "Wordpress CMS",
+            "Plugin Customization",
+            "Wordpress Development",
+            "Wordpress Themes",
+            "Theme Development",
+            "Web technologi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-wordpress-plugin-developer-itz-outsourcing-firm-ahmedabad-0-to-3-years-080120501260",
+        "companyName": "ITZ Outsourcing Firm",
+        "jobTitle": "PHP WordPress Plugin Developer",
+        "skillsRequired": [
+            "rdpress",
+            "Packaging",
+            "payment gateways",
+            "PHP",
+            "Commerce",
+            "payments",
+            "php wordpress",
+            "gatewa"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-developer-ethos-india-himatnagar-ahmedabad-0-to-3-years-031121501197",
+        "companyName": "Ethos Watch",
+        "jobTitle": "PHP Developer",
+        "skillsRequired": [
+            "rdpress",
+            "Javascript",
+            "Api Integration",
+            "Jquery",
+            "Laravel",
+            "Codeigniter",
+            "Core Php",
+            "Php Develop"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-wordpress-developer-cloud-staff-solutions-lucknow-ahmedabad-surat-0-to-4-years-160224904873",
+        "companyName": "CLoud Staff Solutions",
+        "jobTitle": "WordPress Developer",
+        "skillsRequired": [
+            "rdPress",
+            "woocommerce",
+            "website architecture",
+            "jQuery",
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Wordpress Developme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-jr-developer-net-jr-mid-level-mm-staffing-career-consultants-private-limited-ahmedabad-0-to-4-years-091222500589",
+        "companyName": "MM STAFFING CAREER CONSULTANTS PRIVATE LIMITED",
+        "jobTitle": "Jr. Developer -.NET ( JR- Mid level )",
+        "skillsRequired": [
+            "plication design",
+            "Automation",
+            "Web technologies",
+            "Development Manager",
+            "Debugging",
+            "Infrastructure",
+            "Data analytics",
+            "ASP.Net M"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-data-entry-operators-seo-trainee-junior-seo-mycityband-hyderabad-secunderabad-ahmedabad-0-to-1-years-270220501555",
+        "companyName": "mycityband",
+        "jobTitle": "Data Entry Operators / SEO Trainee / Junior SEO",
+        "skillsRequired": [
+            "ping speed",
+            "SEO Trainee",
+            "Data Entry Operator",
+            "Data",
+            "Data entry operation",
+            "Training",
+            "Typing",
+            "S"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-jr-php-developer-triforce-consulting-services-ahmedabad-gujarat-0-to-1-years-200224010018",
+        "companyName": "Triforce Consulting Services ",
+        "jobTitle": "Jr PHP Developer",
+        "skillsRequired": [
+            "p Development",
+            "Javascript",
+            "Bootstrap Css Framework",
+            "JQuery",
+            "Html/Css",
+            "Mysql Database",
+            "MySQL",
+            "Boostr"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-adobe-campaign-developer-beechi-vidya-kendra-trust-new-delhi-hyderabad-secunderabad-pune-ahmedabad-0-to-1-years-200323501815",
+        "companyName": "Beechi Vidya Kendra Trust",
+        "jobTitle": "Adobe Campaign Developer",
+        "skillsRequired": [
+            "oud computing",
+            "Automation",
+            "Backend",
+            "Coding",
+            "Agile",
+            "Unit testing",
+            "Adobe",
+            "Open sour"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-trainee-software-developer-lucent-innovation-ahmedabad-0-to-1-years-230922501835",
+        "companyName": "Lucent Innovation",
+        "jobTitle": "Trainee Software Developer",
+        "skillsRequired": [
+            "op",
+            "CSS",
+            "jQuery",
+            "Web technologies",
+            "html5",
+            "Front end design",
+            "Web development",
+            "Javascri"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-react-js-developer-webs-optimization-software-solution-ahmedabad-0-to-2-years-160124500733",
+        "companyName": "Webs Optimization Software Solution",
+        "jobTitle": "React JS Developer",
+        "skillsRequired": [
+            "ont end",
+            "Version control",
+            "GIT",
+            "html5",
+            "Javascript",
+            "Programming",
+            "bootstrap",
+            "Internsh"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-jr-php-developer-rudr-consultancy-services-ahmedabad-0-to-3-years-120722501747",
+        "companyName": "Rudr Consultancy Services",
+        "jobTitle": "Jr. PHP Developer",
+        "skillsRequired": [
+            "ont end",
+            "GIT",
+            "NoSQL",
+            "Wordpress",
+            "Javascript",
+            "PHP",
+            "MVC",
+            "S"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-developer-icast-erp-ahmedabad-0-to-1-years-290419500183",
+        "companyName": "Icast Erp",
+        "jobTitle": "Software Developer",
+        "skillsRequired": [
+            "ont end",
+            "Architecture",
+            "application",
+            "level",
+            "Winforms",
+            "ASP.Net",
+            "PLSQL",
+            "develop"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-angular-6-front-end-developer-sr-frontend-developer-ysoft-solution-ahmedabad-0-to-2-years-270120501163",
+        "companyName": "Ysoft Solution",
+        "jobTitle": "Angular 6+ Front End Developer/ Sr. Frontend Developer",
+        "skillsRequired": [
+            "ont end",
+            "Analytical",
+            "Debugging",
+            "Javascript",
+            "sr",
+            "angular",
+            "frontend development",
+            "fro"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-front-desk-executive-mastermind-network-ahmedabad-0-to-1-years-291223003787",
+        "companyName": "Mastermind Network",
+        "jobTitle": "Front Desk Executive",
+        "skillsRequired": [
+            "ont Desk",
+            "Solving Queries",
+            "Service Front Desk Executive",
+            "Customer Handling",
+            "Front Office Operations",
+            "Customer Queries",
+            "Handling",
+            "Que"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-project-co-ordinator-web-mavens-ahmedabad-0-to-3-years-070721500123",
+        "companyName": "Web Mavens",
+        "jobTitle": "Project Co - ordinator",
+        "skillsRequired": [
+            "oject development",
+            "Project Coordinator",
+            "Project management",
+            "query",
+            "Manager Technology",
+            "Client relationship",
+            "MS Office",
+            "Developme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-seo-analyst-techno-career-tips-pvt-ltd-ahmedabad-0-to-3-years-070120500972",
+        "companyName": "Techno Career Tips",
+        "jobTitle": "SEO Analyst",
+        "skillsRequired": [
+            "ogle Analytics",
+            "Web analytics",
+            "XML",
+            "Project management",
+            "Social media",
+            "Analytical",
+            "CMS",
+            "Internet marketi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-seo-executive-webcreta-technologies-ahmedabad-0-to-2-years-110124500357",
+        "companyName": "Webcreta Technologies",
+        "jobTitle": "SEO Executive",
+        "skillsRequired": [
+            "ogle Analytics",
+            "Social media",
+            "Analytical",
+            "Javascript",
+            "HTML",
+            "Link building",
+            "SEO",
+            "Digital marketi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-seo-executive-addon-solutions-pvt-ltd-ahmedabad-0-to-4-years-210920500485",
+        "companyName": "Addon Solutions Pvt. Ltd",
+        "jobTitle": "SEO Executive",
+        "skillsRequired": [
+            "ogle Analytics",
+            "PGDCA",
+            "On-page optimization",
+            "XML",
+            "Link building",
+            "SEO",
+            "SEO Executive",
+            "Social bookmarki"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-seo-executive-addon-solutions-pvt-ltd-ahmedabad-0-to-4-years-210920500474",
+        "companyName": "Addon Solutions",
+        "jobTitle": "SEO Executive",
+        "skillsRequired": [
+            "ogle Analytics",
+            "PGDCA",
+            "On-page optimization",
+            "XML",
+            "Link building",
+            "SEO",
+            "SEO Executive",
+            "Social bookmarki"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-support-arth-infosoft-pvt-ltd-ahmedabad-0-to-2-years-301017501341",
+        "companyName": "Arth Infosoft",
+        "jobTitle": "Software Support",
+        "skillsRequired": [
+            "ocess",
+            "Networking",
+            "Software support",
+            "phone",
+            "Writing",
+            "Customer complaints",
+            "Management",
+            "Operatio"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-quality-assurance-engineer-intellial-solutions-pvt-ltd-ahmedabad-0-to-2-years-240620500247",
+        "companyName": "Intellial",
+        "jobTitle": "Quality Assurance Engineer",
+        "skillsRequired": [
+            "nual testing",
+            "Manager Quality Assurance",
+            "Test reporting",
+            "Analytical",
+            "Legal",
+            "Test cases",
+            "Business applications",
+            "Software solutio"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-python-developer-mantras2success-consultants-ahmedabad-0-to-5-years-180523500264",
+        "companyName": "Mantras2Success Consultants",
+        "jobTitle": "Python Developer",
+        "skillsRequired": [
+            "nual testing",
+            "Front end",
+            "Testing tools",
+            "Debugging",
+            "Javascript",
+            "Selenium",
+            "SQL",
+            "Pyth"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-instrumentation-and-controls-engineer-maharshi-industries-ahmedabad-0-to-2-years-160224005441",
+        "companyName": "Maharshi Industries",
+        "jobTitle": "Instrumentation and Controls Engineer",
+        "skillsRequired": [
+            "ntrol System Design",
+            "HMI",
+            "Plc Ladder Logic",
+            "SCADA",
+            "Control",
+            "Control system",
+            "Instruments",
+            "Instrumentati"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-content-writer-services-always-post-ahmedabad-0-to-2-years-141222502439",
+        "companyName": "Always Post",
+        "jobTitle": "Content Writer Services",
+        "skillsRequired": [
+            "ntent management",
+            "Technical writing",
+            "Web development",
+            "CMS",
+            "Internet marketing",
+            "HTML",
+            "SEO",
+            "Web conte"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-creative-content-writer-candidroot-solutions-private-limited-ahmedabad-0-to-3-years-020822502829",
+        "companyName": "Candidroot Solutions",
+        "jobTitle": "Creative Content Writer",
+        "skillsRequired": [
+            "ntent management",
+            "ERP",
+            "System management",
+            "Technical writing",
+            "Management systems",
+            "Social media",
+            "Web development",
+            "Content management syst"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-sr-software-developer-newstar-infotech-ahmedabad-0-to-1-years-290823500792",
+        "companyName": "Newstar Infotech",
+        "jobTitle": "Sr . Software Developer",
+        "skillsRequired": [
+            "mputer science",
+            "Web technologies",
+            "SQL database",
+            "Programming",
+            "Database",
+            "Application software",
+            "IOS",
+            "DB"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-consultant-mycityband-hyderabad-secunderabad-ahmedabad-0-to-1-years-270220500371",
+        "companyName": "mycityband",
+        "jobTitle": "Consultant",
+        "skillsRequired": [
+            "mputer science",
+            "Usage",
+            "android application development",
+            "Web development",
+            "Application development",
+            "Android",
+            "Development",
+            "Scien"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-trainee-software-developers-anant-softtech-private-limited-ahmedabad-0-to-2-years-060320500005",
+        "companyName": "Anant Softtech",
+        "jobTitle": "Trainee Software Developers",
+        "skillsRequired": [
+            "mputer science",
+            "Software Developer",
+            "jQuery",
+            "Web services",
+            "XML",
+            "Javascript",
+            "Manager Technology",
+            "M"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-android-developer-nxc-controls-ahmedabad-0-to-2-years-250321501624",
+        "companyName": "NXC Controls",
+        "jobTitle": "Android Developer",
+        "skillsRequired": [
+            "mputer science",
+            "Mobile development",
+            "Programming",
+            "JSON",
+            "Unit testing",
+            "Android SDK",
+            "Mobile applications",
+            "Applicati"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-java-developer-nxc-controls-ahmedabad-0-to-2-years-250321501625",
+        "companyName": "NXC Controls",
+        "jobTitle": "JAVA Developer",
+        "skillsRequired": [
+            "mputer science",
+            "Hibernate",
+            "Spring mvc",
+            "Spring framework",
+            "GWT",
+            "Memory management",
+            "test driven development",
+            "J"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-asp-net-developer-freshers-satyanam-info-solution-ahmedabad-0-to-1-years-120222500331",
+        "companyName": "Satyanam Info Solution",
+        "jobTitle": "ASP . NET Developer Freshers",
+        "skillsRequired": [
+            "mputer science",
+            "HTML;Javascript",
+            "Software design",
+            "Software development life cycle",
+            "ASP.Net",
+            "MVC",
+            "Troubleshooting",
+            "Technical suppo"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-mean-stack-developer-plutomen-technologies-pvt-ltd-ahmedabad-0-to-3-years-051223501182",
+        "companyName": "Plutomen",
+        "jobTitle": "MEAN Stack Developer",
+        "skillsRequired": [
+            "mputer science",
+            "Front end",
+            "Version control",
+            "GIT",
+            "Coding",
+            "Database design",
+            "Web development",
+            "Mongo"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-developer-allies-business-hub-ahmedabad-0-to-3-years-110820500106",
+        "companyName": "Allies Business Hub",
+        "jobTitle": "PHP developer",
+        "skillsRequired": [
+            "mputer science",
+            "Drupal",
+            "OSCommerce",
+            "Coding",
+            "Javascript",
+            "PHP",
+            "HTML",
+            "Open sour"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-developer-fresher-trainee-alps-web-solutions-ahmedabad-0-to-1-years-040121501142",
+        "companyName": "Alps Web Solutions",
+        "jobTitle": "PHP Developer ( Fresher / Trainee )",
+        "skillsRequired": [
+            "mputer science",
+            "CSS",
+            "Version control",
+            "Web technologies",
+            "Web services",
+            "Coding",
+            "Javascript",
+            "P"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-ios-development-zetamp-hyderabad-secunderabad-ahmedabad-bengaluru-bangalore-0-to-1-years-291019500382",
+        "companyName": "Zetamp Energy Solutions",
+        "jobTitle": "iOS Development",
+        "skillsRequired": [
+            "mputer science",
+            "Bluetooth",
+            "PDF",
+            "SQLite",
+            "JSON",
+            "ios development",
+            "Unit testing",
+            "Troubleshooti"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-python-developer-alakmalak-technologies-ahmedabad-0-to-2-years-280723502305",
+        "companyName": "Alakmalak Technologies",
+        "jobTitle": "Python Developer",
+        "skillsRequired": [
+            "mputer science",
+            "Analytical skills",
+            "Software development methodologies",
+            "GIT",
+            "Version control",
+            "MySQL",
+            "Agile",
+            "Stock mark"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-jr-it-admin-teksun-microsys-pvt-ltd-ahmedabad-0-to-1-years-251023501136",
+        "companyName": "Teksun",
+        "jobTitle": "Jr. IT Admin",
+        "skillsRequired": [
+            "mputer hardware",
+            "Networking",
+            "Operating systems",
+            "hardware configuration",
+            "System support",
+            "IT Administrator",
+            "Investigation",
+            "Hardwa"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-junior-front-end-developer-remote-fresh-college-graduates-coalition-technologies-hyderabad-telangana-ahmedabad-chennai-tamil-nadu-0-to-5-years-310124012301",
+        "companyName": "Coalition Technologies",
+        "jobTitle": "Junior Front End Developer - Remote (Fresh College Graduates)",
+        "skillsRequired": [
+            "ml/Css",
+            "PSD",
+            "GIT",
+            "Responsive Web Design",
+            "Illustrator",
+            "SVN",
+            "Photoshop",
+            "Remo"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-engineer-support-operations-zetamp-hyderabad-secunderabad-ahmedabad-bengaluru-bangalore-0-to-1-years-030120500885",
+        "companyName": "Zetamp Energy Solutions",
+        "jobTitle": "Engineer Support/Operations",
+        "skillsRequired": [
+            "man capital",
+            "Customer management",
+            "operational support",
+            "PDF",
+            "Technical writing",
+            "Infrastructure management",
+            "Manager Program Management",
+            "Packagi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-business-development-executive-shreeji-software-ahmedabad-0-to-5-years-141022503310",
+        "companyName": "Shreeji Software",
+        "jobTitle": "Business Development Executive",
+        "skillsRequired": [
+            "ld calling",
+            "Graphics",
+            "Lead generation",
+            "Networking",
+            "Online marketing",
+            "Social media",
+            "Web development",
+            "Client interacti"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-developer-vibidsoft-ahmedabad-0-to-2-years-301115500629",
+        "companyName": "Vibidsoft",
+        "jobTitle": "PHP Developer",
+        "skillsRequired": [
+            "kephp",
+            "rdbms",
+            "joomla",
+            "ajax",
+            "xhtml",
+            "quality",
+            "multimedia",
+            "drup"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-developers-mxicoders-pvt-ltd-ahmedabad-ahmedabad-0-to-3-years-250815500653",
+        "companyName": "Mxicoders Pvt. Ltd",
+        "jobTitle": "PHP DEVELOPERS",
+        "skillsRequired": [
+            "kephp",
+            "php mysql",
+            "css",
+            "technical",
+            "software",
+            "wordpress",
+            "level",
+            "testi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-iphone-developer-aum-infotech-ahmedabad-ahmedabad-0-to-1-years-140915500301",
+        "companyName": "AUM Infotech",
+        "jobTitle": "IPhone Developer",
+        "skillsRequired": [
+            "jective c",
+            "coding",
+            "development",
+            "manager",
+            "application",
+            "frameworks",
+            "android",
+            "js"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-iphone-developer-aum-infotech-ahmedabad-0-to-3-years-170715502579",
+        "companyName": "AUM Infotech",
+        "jobTitle": "IPhone Developer",
+        "skillsRequired": [
+            "jective c",
+            "coding",
+            "development",
+            "application",
+            "android",
+            "json",
+            "xml parser",
+            "phoneg"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-dot-net-developers-mantras2success-consultants-ahmedabad-0-to-9-years-270423501565",
+        "companyName": "Mantras2Success Consultants",
+        "jobTitle": "Dot Net Developers",
+        "skillsRequired": [
+            "ject oriented design",
+            "jQuery",
+            "GIT",
+            "Debugging",
+            "Agile",
+            "Entity framework",
+            "WCF",
+            "Visual Stud"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-jr-android-developer-zetrixweb-infotech-llp-ahmedabad-0-to-3-years-190820500831",
+        "companyName": "Zetrixweb",
+        "jobTitle": "Jr. Android Developer",
+        "skillsRequired": [
+            "il de",
+            "Android Developer",
+            "Android\n",
+            "Mobile Testing",
+            "Automation Framework",
+            "selenative platfrom",
+            "Android",
+            "Android Application Developme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-trainee-software-developer-eworks-services-pvt-ltd-nagpur-ahmedabad-bhilai-bhillai-raipur-detroj-dholka-viramgam-0-to-7-years-010917500369",
+        "companyName": "E-works",
+        "jobTitle": "Trainee software developer",
+        "skillsRequired": [
+            "hone",
+            "C++",
+            "CV",
+            "C",
+            "java",
+            "Trainee",
+            "technical",
+            "Programmi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-project-coordinator-trainee-connectionphase-ahmedabad-0-to-2-years-310317500798",
+        "companyName": "Connectionphase",
+        "jobTitle": "Project coordinator Trainee",
+        "skillsRequired": [
+            "glish",
+            "Project Coordinator",
+            "Mobile application development",
+            "HR Executive",
+            "Team management",
+            "Web development",
+            "PHP",
+            "HT"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-developer-net-actionedge-research-services-llp-ahmedabad-0-to-3-years-310124908179",
+        "companyName": "ActionEdge Research Services",
+        "jobTitle": "Software Developer (.net)",
+        "skillsRequired": [
+            "ftware development",
+            "requirements analysis",
+            "Software Developer",
+            "software design",
+            ".net",
+            "Analysis",
+            "Design",
+            "Requirement analys"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-asp-net-developers-zobi-web-solutions-pvt-ltd-ahmedabad-0-to-4-years-080720500188",
+        "companyName": "Zobi Web Solutions",
+        "jobTitle": "ASP.NET Developers",
+        "skillsRequired": [
+            "ftware design",
+            "jQuery",
+            "Web technologies",
+            "Debugging",
+            "Javascript",
+            "Deployment",
+            "ASP.Net MVC",
+            "S"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-dot-net-developer-techno-career-tips-pvt-ltd-ahmedabad-0-to-3-years-070120500971",
+        "companyName": "Techno Career Tips",
+        "jobTitle": "Dot Net Developer",
+        "skillsRequired": [
+            "ftware design",
+            "Visual Basic",
+            "Software development life cycle",
+            "Business Development Executive",
+            "MVC",
+            "Technical support",
+            "SDLC",
+            "Petrole"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-opportunity-freshers-avsg-consultancy-limited-ahmedabad-bangalore-bengaluru-delhi-ncr-0-to-4-years-261223001324",
+        "companyName": "Avsg Consultancy",
+        "jobTitle": "Software Opportunity, Freshers",
+        "skillsRequired": [
+            "ftware Testing",
+            "Full Stack",
+            "HTML",
+            "Java",
+            "Software Services",
+            "XML",
+            "PHP",
+            "Basic Computer Skil"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-support-executive-mycityband-new-delhi-hyderabad-secunderabad-ahmedabad-0-to-3-years-270220500135",
+        "companyName": "mycityband",
+        "jobTitle": "Software Support Executive",
+        "skillsRequired": [
+            "ftware Support Executive",
+            "Computer hardware",
+            "Banking",
+            "Banking software",
+            "Computer",
+            "Software support",
+            "Software",
+            "Hardwa"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-developer-freshers-experienced-nexpro247-ahmedabad-gujarat-bengaluru-karnataka-mumbai-all-areas-0-to-5-years-010224008974",
+        "companyName": "Nexpro247",
+        "jobTitle": "Software Developer - Freshers & Experienced",
+        "skillsRequired": [
+            "ftware Development",
+            "Software Services",
+            "Software Engineering",
+            "software developer",
+            "Software Programming",
+            "Application Programming",
+            "technical",
+            "Networki"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-developer-btech-mca-mtech-bsc-freshers-exp-avsg-consultancy-ahmedabad-bangalore-bengaluru-delhi-ncr-0-to-4-years-170224001681",
+        "companyName": "Avsg Consultancy",
+        "jobTitle": "Software Developer -  Btech / MCA / MTech / BSc Freshers & EXP",
+        "skillsRequired": [
+            "ftware Development",
+            "Software Engineering",
+            "Application Programming",
+            "Software Development Life Cycle",
+            "Software Project Management",
+            "Application Software",
+            "Software Product Development",
+            "Database Handli"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-hiring-software-engineers-fresher-experienced-both-balasundaram-santosh-kolkata-hyderabad-secunderabad-pune-ahmedabad-chennai-bangalore-bengaluru-delhi-ncr-mumbai-all-areas-0-to-5-years-110323003865",
+        "companyName": "Balasundaram Santosh",
+        "jobTitle": "Hiring Software Engineers - Fresher & Experienced Both",
+        "skillsRequired": [
+            "ftware Development",
+            "Application Programming",
+            "System Programming",
+            "Java",
+            "Coding",
+            "Software Engineering",
+            "Hadoop",
+            "Javascri"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-developer-be-btech-mca-mtech-bsc-freshers-exp-balasundaram-santosh-kolkata-hyderabad-pune-ahmedabad-chennai-bangalore-bengaluru-delhi-ncr-mumbai-all-areas-0-to-5-years-110323003802",
+        "companyName": "Balasundaram Santosh",
+        "jobTitle": "Software Developer - Be / Btech / MCA / MTech / BSc Freshers & EXP\n",
+        "skillsRequired": [
+            "ftware Development",
+            "Application Programming",
+            "Software Development Life Cycle",
+            "Software Project Management",
+            "Application Software",
+            "Software Product Development",
+            "Software Engineering",
+            "Database Handli"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-dot-net-core-developer-malay-infotech-ahmedabad-0-to-3-years-300124005176",
+        "companyName": "Malay Infotech",
+        "jobTitle": "Dot Net Core Developer",
+        "skillsRequired": [
+            "et Core",
+            "Net Development",
+            "ADO.Net",
+            "Asp.Net Core",
+            "Net Fullstack",
+            "C#",
+            "T-SQL",
+            "As"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-web-development-engineeous-ahmedabad-anand-0-to-1-years-071123501747",
+        "companyName": "Engineeous",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "ding",
+            "Web development",
+            "Debugging",
+            "Javascript",
+            "PHP",
+            "HTML",
+            "Troubleshooting",
+            "Open sour"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-oracle-cloud-cpq-developer-primohunt-corporate-ahmedabad-0-to-12-years-250123501407",
+        "companyName": "Primohunt Corporate",
+        "jobTitle": "Oracle Cloud CPQ Developer",
+        "skillsRequired": [
+            "der management",
+            "Procurement",
+            "O2C",
+            "Business system",
+            "Cloud",
+            "Oracle Sales",
+            "Testing",
+            "order fulfillme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-business-development-executive-arth-infosoft-pvt-ltd-ahmedabad-0-to-2-years-080316500999",
+        "companyName": "Arth Infosoft",
+        "jobTitle": "Business Development Executive",
+        "skillsRequired": [
+            "dding",
+            "fice applications ",
+            "development executive",
+            "ms",
+            "documentation",
+            "cms",
+            "e commerce",
+            "av"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-angular-developer-swansoftwebsolutions-ahmedabad-0-to-3-years-160623501775",
+        "companyName": "Swan Softweb",
+        "jobTitle": "Angular Developer",
+        "skillsRequired": [
+            "curity compliance",
+            "Front end",
+            "Django",
+            "Debugging",
+            "Javascript",
+            "MVC",
+            "JIRA",
+            "S"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-msbi-developer-magnusminds-ahmedabad-0-to-3-years-020823500101",
+        "companyName": "Magnusminds",
+        "jobTitle": "MSBI Developer",
+        "skillsRequired": [
+            "crostrategy",
+            "Database",
+            "Deployment",
+            "Data analytics",
+            "Unit testing",
+            "Business intelligence",
+            "Troubleshooting",
+            "Reporting too"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-embedded-application-developer-veer-machinery-ahmedabad-0-to-5-years-120224002028",
+        "companyName": "Veer Machinery",
+        "jobTitle": "Embedded Application Developer",
+        "skillsRequired": [
+            "crocontroller",
+            "Embedded C",
+            "Wireless Communication",
+            "Embedded Development",
+            "Embedded Programming",
+            "Application",
+            "Embedded systems",
+            "Programmi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-front-end-developer-world-web-technology-ahmedabad-0-to-3-years-130423500474",
+        "companyName": "World Web Technology",
+        "jobTitle": "Front End Developer",
+        "skillsRequired": [
+            "ckend",
+            "jQuery",
+            "Front end",
+            "PDF",
+            "Web technologies",
+            "User interface designing",
+            "Javascript",
+            "HT"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-jr-android-developer-codizious-technologies-jamnagar-ahmedabad-rajkot-surat-vadodara-baroda-0-to-1-years-090720500563",
+        "companyName": "Codizious Technologies",
+        "jobTitle": "Jr. Android Developer",
+        "skillsRequired": [
+            "ckend",
+            "Publishing",
+            "Memory management",
+            "Eclipse",
+            "Debugging",
+            "PHP",
+            "JSON",
+            "Android S"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-ios-developer-wadprog-ahmedabad-0-to-2-years-091222500701",
+        "companyName": "Wadprog",
+        "jobTitle": "IOS DEVELOPER",
+        "skillsRequired": [
+            "ckend",
+            "GIT",
+            "Mobile development",
+            "Cloud",
+            "Swift",
+            "SVN",
+            "IOS",
+            ""
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-magento-developer-avi-web-solutions-private-limited-ahmedabad-0-to-2-years-280619500153",
+        "companyName": "AVI Web Solutions",
+        "jobTitle": "Magento Developer",
+        "skillsRequired": [
+            "ckaging",
+            "Manager Technology",
+            "PHP",
+            "Open source",
+            "Source",
+            "Development",
+            "Technology",
+            "Microservices Developme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-support-back-office-executive-female-mycityband-hyderabad-secunderabad-new-delhi-ahmedabad-0-to-2-years-270220501772",
+        "companyName": "mycityband",
+        "jobTitle": "Software Support cum Back Office Executive, Female",
+        "skillsRequired": [
+            "ck Office Executive",
+            "Computer hardware",
+            "Software support",
+            "Accounting",
+            "Banking",
+            "Office",
+            "Software",
+            "Hardwa"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-sales-manager-mantras2success-consultants-ahmedabad-0-to-2-years-270323501365",
+        "companyName": "Mantras2Success Consultants",
+        "jobTitle": "Sales Manager",
+        "skillsRequired": [
+            "cial media marketing",
+            "Costing",
+            "Field sales",
+            "Channel sales",
+            "Web development",
+            "Agile",
+            "Digital marketing",
+            "Cateri"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-jr-software-developer-net-trainee-locanix-ahmedabad-0-to-2-years-310118500766",
+        "companyName": "Locanix",
+        "jobTitle": "Jr. Software Developer (.Net)/Trainee",
+        "skillsRequired": [
+            "chnical product configuration",
+            "c++",
+            "C",
+            "design",
+            "MySQL",
+            "JavaScript",
+            "integration PHP",
+            "HT"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-java-trainee-connectionphase-ahmedabad-0-to-2-years-280417500920",
+        "companyName": "Connectionphase",
+        "jobTitle": "JAVA Trainee",
+        "skillsRequired": [
+            "chnical product configuration",
+            "c++",
+            "C",
+            "design",
+            "MySQL",
+            "JavaScript",
+            "integration PHP",
+            "HT"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-game-designer-gameanax-gameanax-ahmedabad-0-to-3-years-110121501085",
+        "companyName": "Gameanax",
+        "jobTitle": "Game Designer - GameAnax",
+        "skillsRequired": [
+            "chitecture",
+            "Illustrator",
+            "Conceptualization",
+            "Photoshop",
+            "Gaming",
+            "game development",
+            "games",
+            "desi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-mean-stack-developer-xceltec-interactive-private-limited-ahmedabad-0-to-2-years-270723500199",
+        "companyName": "Xceltec",
+        "jobTitle": "Mean Stack Developer",
+        "skillsRequired": [
+            "chitect",
+            "Analytical",
+            "Cloud",
+            "Debugging",
+            "Javascript",
+            "Deployment",
+            "Management",
+            "A"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-business-development-executive-arth-infosoft-pvt-ltd-ahmedabad-0-to-2-years-050216501508",
+        "companyName": "Arth Infosoft",
+        "jobTitle": "Business Development Executive",
+        "skillsRequired": [
+            "cel",
+            "bidding",
+            "fice applications",
+            "ms",
+            "development executive",
+            "documentation",
+            "cms",
+            "web applicatio"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-data-analyst-post-a-resume-hr-consultancy-ahmedabad-0-to-4-years-141119500682",
+        "companyName": "POST A RESUME HR Consultancy",
+        "jobTitle": "Data Analyst",
+        "skillsRequired": [
+            "cel",
+            "MIS",
+            "Analytical",
+            "Retail analysis",
+            "Data Analyst",
+            "Retail business",
+            "analytics",
+            "data analys"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-android-developer-zetamp-hyderabad-secunderabad-ahmedabad-bengaluru-bangalore-0-to-1-years-221019500455",
+        "companyName": "Zetamp Energy Solutions",
+        "jobTitle": "Android_Developer",
+        "skillsRequired": [
+            "brication",
+            "Performance tuning",
+            "Bluetooth",
+            "GIT",
+            "PDF",
+            "Power electronics",
+            "Android SDK",
+            "Senso"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-mobile-app-developer-android-developer-arth-infosoft-pvt-ltd-ahmedabad-0-to-2-years-301017501324",
+        "companyName": "Arth Infosoft Pvt. Ltd",
+        "jobTitle": "Mobile App Developer - Android Developer",
+        "skillsRequired": [
+            "blishing",
+            "OOPS",
+            "MySQL",
+            "SQLite",
+            "android studio",
+            "Database",
+            "JSON",
+            "Android S"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-mobile-app-developer-android-developer-arth-infosoft-pvt-ltd-ahmedabad-0-to-2-years-260219502431",
+        "companyName": "Arth Infosoft Pvt. Ltd",
+        "jobTitle": "Mobile App Developer-  Android Developer",
+        "skillsRequired": [
+            "blishing",
+            "OOPS",
+            "MySQL",
+            "SQLite",
+            "android studio",
+            "Database",
+            "JSON",
+            "Android S"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-digital-marketing-freshers-vatsal-technosoft-pvt-ltd-kolkata-mumbai-indore-pune-ahmedabad-surat-bangalore-bengaluru-vadodara-baroda-0-to-1-years-010323500099",
+        "companyName": "Vatsal Technosoft",
+        "jobTitle": "Digital Marketing Freshers",
+        "skillsRequired": [
+            "blic relations",
+            "Publishing",
+            "Campaign management",
+            "Illustrator",
+            "Online marketing",
+            "Social media",
+            "Market research",
+            "Google AdWor"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-ios-developer-teksun-microsys-pvt-ltd-ahmedabad-0-to-1-years-061222500886",
+        "companyName": "Teksun",
+        "jobTitle": "IOS Developer",
+        "skillsRequired": [
+            "bile development",
+            "OOPS",
+            "Cloud",
+            "Swift",
+            "Mobile applications",
+            "IOS",
+            "Application",
+            "IOS Developme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-android-developer-sleek-sky-ahmedabad-0-to-3-years-180521501105",
+        "companyName": "Sleek Sky",
+        "jobTitle": "Android Developer",
+        "skillsRequired": [
+            "bile development",
+            "Data Processor",
+            "JSON",
+            "Unit testing",
+            "Android SDK",
+            "sdk",
+            "data processing",
+            "un"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-mobile-app-developer-flutter-android-ios-amar-infotech-ahmedabad-0-to-1-years-240221500525",
+        "companyName": "Amar Infotech",
+        "jobTitle": "Mobile App Developer (Flutter, Android, iOS)",
+        "skillsRequired": [
+            "bile application development",
+            "Web technologies",
+            "Commerce",
+            "Unit testing",
+            "IOS",
+            "Cost",
+            "Android",
+            "mobile developme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-bids-specialist-it-passionmojo-pvt-ltd-ahmedabad-0-to-1-years-240723502121",
+        "companyName": "Passionmojo",
+        "jobTitle": "Bids Specialist - IT",
+        "skillsRequired": [
+            "bile application development",
+            "Interpersonal skills",
+            "Bidding",
+            "Web development",
+            "Digital marketing",
+            "Revenue generation",
+            "international clients",
+            "Online biddi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-developer-post-a-resume-hr-consultancy-ahmedabad-0-to-5-years-190522502103",
+        "companyName": "POST A RESUME HR Consultancy",
+        "jobTitle": "PHP developer",
+        "skillsRequired": [
+            "bernate",
+            "Core Java",
+            "jQuery",
+            "JSP",
+            "Wordpress",
+            "Javascript",
+            "PHP",
+            "J2"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-java-developer-indusa-ahmedabad-0-to-2-years-280520500778",
+        "companyName": "Indusa",
+        "jobTitle": "Java Developer",
+        "skillsRequired": [
+            "bernate",
+            "Core Java",
+            "ERP",
+            "Business analysis",
+            "Project management",
+            "Struts",
+            "Application development",
+            "J"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-java-developer-indusa-ahmedabad-0-to-2-years-280520500774",
+        "companyName": "Indusa",
+        "jobTitle": "Java Developer",
+        "skillsRequired": [
+            "bernate",
+            "Core Java",
+            "ERP",
+            "Business analysis",
+            "Project management",
+            "Consulting",
+            "ISO 27001",
+            "Stru"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-web-developer-java-technologies-csp-ahmedabad-0-to-2-years-160218500506",
+        "companyName": "Customer Service Point (CSP)",
+        "jobTitle": "Web developer - Java Technologies",
+        "skillsRequired": [
+            "b technologies",
+            "java",
+            "Education",
+            "Java J2Ee Developer",
+            "JSP",
+            "Struts",
+            "developer",
+            ""
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-dot-net-developer-logical-wings-ahmedabad-0-to-5-years-170823500895",
+        "companyName": "Logical Wings",
+        "jobTitle": "Dot NET DEVELOPER",
+        "skillsRequired": [
+            "b technologies",
+            "OOPS",
+            "Application development",
+            "ASP.Net MVC",
+            "Testing",
+            "Development",
+            "MVC",
+            "Software testi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-freshers-vatsal-technosoft-pvt-ltd-kolkata-mumbai-indore-pune-ahmedabad-surat-bangalore-bengaluru-vadodara-baroda-0-to-1-years-010323500106",
+        "companyName": "Vatsal Technosoft",
+        "jobTitle": "PHP Freshers",
+        "skillsRequired": [
+            "b services",
+            "PHP",
+            "HTML",
+            "Open source",
+            "Core PHP",
+            "Testing",
+            "open",
+            "co"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-sr-java-developer-connectionphase-ahmedabad-0-to-5-years-310317500796",
+        "companyName": "Connectionphase",
+        "jobTitle": "Sr.JAVA Developer",
+        "skillsRequired": [
+            "b application development",
+            "Hibernate",
+            "Core Java",
+            "HR Executive",
+            "ISO",
+            "Javascript",
+            "PHP",
+            "Stru"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-nodejs-and-react-developer-hexabrain-technologies-private-limited-ahmedabad-0-to-5-years-110423500630",
+        "companyName": "Hexabrain Technologies",
+        "jobTitle": "Nodejs And React Developer",
+        "skillsRequired": [
+            "b application development",
+            "GIT",
+            "NoSQL",
+            "MySQL",
+            "Javascript",
+            "Agile",
+            "PHP",
+            "Object oriented programmi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-web-designer-teqto-infotech-hyderabad-secunderabad-ahmedabad-rajkot-0-to-2-years-310123500462",
+        "companyName": "Teqto Infotech",
+        "jobTitle": "Web Designer",
+        "skillsRequired": [
+            "aphics",
+            "jQuery",
+            "Front end",
+            "Illustrator",
+            "Web development",
+            "Wordpress",
+            "Javascript",
+            "P"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-unity-developer-karbh-it-solutions-llp-ahmedabad-0-to-1-years-150923501079",
+        "companyName": "Karbh It Solutions",
+        "jobTitle": "Unity Developer",
+        "skillsRequired": [
+            "aphics",
+            "Project development",
+            "Version control",
+            "GIT",
+            "Debugging",
+            "Programming",
+            "Gaming",
+            "game developme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-marketing-executive-freshers-vatsal-technosoft-pvt-ltd-kolkata-mumbai-indore-pune-ahmedabad-surat-bangalore-bengaluru-vadodara-baroda-0-to-1-years-010323500100",
+        "companyName": "Vatsal Technosoft",
+        "jobTitle": "Marketing Executive Freshers",
+        "skillsRequired": [
+            "aphics",
+            "Outbound",
+            "Data analysis",
+            "Public relations",
+            "Publishing",
+            "Illustrator",
+            "Analytical",
+            "Social med"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-wordpress-developer-teqto-infotech-hyderabad-secunderabad-ahmedabad-rajkot-0-to-2-years-310123500463",
+        "companyName": "Teqto Infotech",
+        "jobTitle": "WordPress Developer",
+        "skillsRequired": [
+            "aphics",
+            "Content management",
+            "jQuery",
+            "Wordpress",
+            "Debugging",
+            "Javascript",
+            "PHP",
+            "Troubleshooti"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-ios-developer-nxc-controls-ahmedabad-0-to-2-years-250321501621",
+        "companyName": "NXC Controls",
+        "jobTitle": "IOS Developer",
+        "skillsRequired": [
+            "aphics",
+            "Computer science",
+            "Mobile development",
+            "Animation",
+            "Unit testing",
+            "ios development",
+            "Mobile applications",
+            "I"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-wordpress-developer-smartfish-designs-pvt-ltd-ahmedabad-0-to-1-years-091023501428",
+        "companyName": "Smartfish Designs",
+        "jobTitle": "Wordpress Developer",
+        "skillsRequired": [
+            "am leading",
+            "jQuery",
+            "Project leading",
+            "Coding",
+            "MySQL",
+            "Wordpress",
+            "PHP",
+            "HT"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-seo-executives-aegis-softtech-jamnagar-ahmedabad-rajkot-surat-vadodara-baroda-0-to-3-years-010421500515",
+        "companyName": "Aegis Softtech",
+        "jobTitle": "SEO Executives",
+        "skillsRequired": [
+            "alytics reporting",
+            "Training Executive",
+            "Link building",
+            "SEO",
+            "SEO Executive",
+            "Marketing Executive",
+            "Analytics",
+            "Monitori"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-technical-project-coordinator-project-coordinator-intellial-solutions-pvt-ltd-ahmedabad-0-to-2-years-260220501235",
+        "companyName": "Intellial",
+        "jobTitle": "Technical Project Coordinator/ Project Coordinator",
+        "skillsRequired": [
+            "alytical skills",
+            "Project Coordinator",
+            "Client satisfaction",
+            "People management skills",
+            "Project management",
+            "Workflow",
+            "Customer support",
+            "Project delive"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-ios-developer-oob-smarthome-india-pvt-ltd-ahmedabad-0-to-2-years-151022500418",
+        "companyName": "Oob Smarthome India",
+        "jobTitle": "IOS Developer",
+        "skillsRequired": [
+            "alytical skills",
+            "Performance tuning",
+            "Automation",
+            "Backend",
+            "Web technologies",
+            "Coding",
+            "Manager Technology",
+            "Animati"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-senior-php-developer-thoughtmate-systems-ahmedabad-0-to-3-years-220923500865",
+        "companyName": "Thoughtmate Systems",
+        "jobTitle": "Senior PHP Developer",
+        "skillsRequired": [
+            "alability",
+            "Coding",
+            "MySQL",
+            "Web development",
+            "Debugging",
+            "Software development life cycle",
+            "PHP",
+            "Deployme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-trainee-connectionphase-ahmedabad-0-to-2-years-280417500919",
+        "companyName": "Connectionphase",
+        "jobTitle": "PHP Trainee",
+        "skillsRequired": [
+            "aining",
+            "jQuery",
+            "PHP Trainee",
+            "Development Manager",
+            "Technical",
+            "MySQL",
+            "SAT",
+            "Node "
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-application-engineer-pw-fronius-india-private-ahmedabad-0-to-5-years-120224501271",
+        "companyName": "Fronius India Private",
+        "jobTitle": "Application Engineer- PW",
+        "skillsRequired": [
+            "aining",
+            "Trade",
+            "Construction",
+            "Sales",
+            "IT skills",
+            "Manager Technology",
+            "Technical support",
+            "Testi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-field-assistant-pleasant-inc-jamnagar-ahmedabad-rajkot-surat-vadodara-baroda-0-to-2-years-251119500984",
+        "companyName": "Pleasant Inc.",
+        "jobTitle": "Field Assistant",
+        "skillsRequired": [
+            "adership training",
+            "Software development life cycle",
+            "Manager Technology",
+            "Management",
+            "Software development",
+            "Technology",
+            "Assistance",
+            "Development Life Cyc"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-developer-asturisk-ahmedabad-gujarat-0-to-5-years-060224004052",
+        "companyName": "Asturisk",
+        "jobTitle": "Software Developer",
+        "skillsRequired": [
+            "act Native",
+            "Frontend Development",
+            "React.Js",
+            "Development",
+            "Native",
+            "Software development",
+            "Software",
+            "Front e"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-javascript-developer-rayo-innovations-ahmedabad-0-to-4-years-151020500067",
+        "companyName": "Rayo Innovations",
+        "jobTitle": "JavaScript Developer",
+        "skillsRequired": [
+            "T",
+            "Web technologies",
+            "html5",
+            "Web development",
+            "Cloud",
+            "Manager Technology",
+            "Javascript",
+            "Cost estimati"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-engineer-angular-net-mantras2success-consultants-ahmedabad-0-to-3-years-160623501040",
+        "companyName": "Mantras2Success Consultants",
+        "jobTitle": "Software Engineer ( Angular . net )",
+        "skillsRequired": [
+            "T",
+            "Project management",
+            "Application development",
+            "microsoft",
+            "Operations",
+            "Software services",
+            "SQL",
+            "Applicati"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-react-js-developer-malay-infotech-pvt-ltd-ahmedabad-0-to-3-years-090823500428",
+        "companyName": "Malay Infotech",
+        "jobTitle": "React JS Developer",
+        "skillsRequired": [
+            "SQL",
+            "LINQ",
+            "VB.NET",
+            "RDBMS",
+            "Programming",
+            "Entity framework",
+            "ASP.Net",
+            "HT"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-ios-intern-sculptsoft-ahmedabad-0-to-1-years-300124906159",
+        "companyName": "Sculptsoft",
+        "jobTitle": "IOS - Intern",
+        "skillsRequired": [
+            "S development",
+            "project documentation",
+            "Swift - IOS",
+            "testing",
+            "mobile technology",
+            "IOS Intern",
+            "Technology",
+            "Documentati"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-asp-net-mvc-developer-aum-infotech-ahmedabad-0-to-1-years-250723500435",
+        "companyName": "AUM Infotech",
+        "jobTitle": "ASP . Net MVC Developer",
+        "skillsRequired": [
+            "S",
+            "jQuery",
+            "LINQ",
+            "Entity framework",
+            "PLSQL",
+            "HTML",
+            "microsoft",
+            "ASP.Net M"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-java-developer-cloudzon-ahmedabad-0-to-2-years-210818500186",
+        "companyName": "Cloudzon Infoconnect",
+        "jobTitle": "Java Developer",
+        "skillsRequired": [
+            "S",
+            "Web technologies",
+            "java",
+            "web",
+            "MySQL",
+            "Javascript",
+            "Programming",
+            "HT"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-jr-engineer-gis-enercomp-solutions-private-limited-pune-ahmedabad-bangalore-bengaluru-0-to-2-years-020823501519",
+        "companyName": "Enercomp",
+        "jobTitle": "Jr . Engineer ( GIS )",
+        "skillsRequired": [
+            "S",
+            "Outbound",
+            "Sales",
+            "Incharge",
+            "Project management",
+            "Electronics",
+            "Healthcare",
+            "Manageme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-jr-laravel-developer-karbh-it-solutions-llp-ahmedabad-0-to-1-years-301123500908",
+        "companyName": "Karbh It Solutions",
+        "jobTitle": "Jr. Laravel Developer",
+        "skillsRequired": [
+            "S",
+            "GIT",
+            "Web technologies",
+            "MySQL",
+            "Javascript",
+            "PHP",
+            "HTML",
+            "Troubleshooti"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-front-end-developer-hupp-technologies-ahmedabad-0-to-2-years-180121500309",
+        "companyName": "Hupp Technologies",
+        "jobTitle": "Front End Developer",
+        "skillsRequired": [
+            "S",
+            "Front end",
+            "PDF",
+            "Web technologies",
+            "html5",
+            "Wordpress",
+            "Web development",
+            "que"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-gis-developers-machine-learning-amnex-infotechnologies-ahmedabad-0-to-3-years-221019501884",
+        "companyName": "Amnex",
+        "jobTitle": "GIS Developers- Machine learning",
+        "skillsRequired": [
+            "S",
+            "Computer science",
+            "Process automation",
+            "Computer vision",
+            "deep learning",
+            "Image processing",
+            "Web development",
+            "Machine learni"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-senior-full-stack-software-engineer-awaaz-de-infosystems-private-limited-ahmedabad-0-to-5-years-290923500004",
+        "companyName": "Awaaz.De",
+        "jobTitle": "Senior Full Stack Software Engineer",
+        "skillsRequired": [
+            "R",
+            "Debugging",
+            "Javascript",
+            "Agile",
+            "Troubleshooting",
+            "Open source",
+            "Data mining",
+            "SD"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-junior-software-developer-engineer-probus-insurance-broker-pvt-ltd-ahmedabad-0-to-2-years-230224011957",
+        "companyName": "Probus Insurance Broker",
+        "jobTitle": "Junior Software Developer Engineer",
+        "skillsRequired": [
+            "P.NET core framework",
+            "C#",
+            "MVC",
+            "ASP.Net Core",
+            "Development",
+            "Software",
+            "Framework",
+            "Software developme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-dot-net-developer-indusa-ahmedabad-0-to-2-years-280520500776",
+        "companyName": "Indusa",
+        "jobTitle": "Dot Net Developer",
+        "skillsRequired": [
+            "P",
+            "Business analysis",
+            "Project management",
+            "Debugging",
+            "CMMI",
+            "Application development",
+            "WCF",
+            "M"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-sde-l2-teksun-microsys-pvt-ltd-ahmedabad-0-to-3-years-160224500244",
+        "companyName": "Teksun",
+        "jobTitle": "SDE - L2",
+        "skillsRequired": [
+            "OS",
+            "JTAG",
+            "JNI",
+            "Memory management",
+            "Linux kernel",
+            "System programming",
+            "Hardware design",
+            "Scheduli"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-power-automate-engineer-mantras2success-consultants-ahmedabad-0-to-4-years-060423502274",
+        "companyName": "Mantras2Success Consultants",
+        "jobTitle": "Power Automate Engineer",
+        "skillsRequired": [
+            "O",
+            "Version control",
+            "Data modeling",
+            "Pharma",
+            "Javascript",
+            "Back office",
+            "Application development",
+            "JS"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-angular-10-developer-mm-staffing-career-consultants-private-limited-ahmedabad-0-to-5-years-081222503200",
+        "companyName": "MM STAFFING CAREER CONSULTANTS PRIVATE LIMITED",
+        "jobTitle": "Angular 10 Developer",
+        "skillsRequired": [
+            "O",
+            "CSS",
+            "Front end",
+            "Web technologies",
+            "Consulting",
+            "Javascript",
+            "CMMI",
+            "HT"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-python-django-developer-intellial-solutions-pvt-ltd-ahmedabad-0-to-2-years-240620500246",
+        "companyName": "Intellial",
+        "jobTitle": "Python/Django developer",
+        "skillsRequired": [
+            "ML;Javascript",
+            "Web services",
+            "Coding",
+            "XML",
+            "Django",
+            "Javascript",
+            "JSON",
+            "Business applicatio"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-frontend-engineer-production-team-flits-ahmedabad-0-to-2-years-260423502231",
+        "companyName": "Flits",
+        "jobTitle": "Frontend Engineer ( Production Team )",
+        "skillsRequired": [
+            "ML;Javascript",
+            "Ticketing",
+            "CSS",
+            "Front end",
+            "jQuery",
+            "Javascript",
+            "Programming",
+            "HT"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-jr-frontend-developer-actowiz-solutions-ahmedabad-0-to-3-years-060723501041",
+        "companyName": "Actowiz Solutions",
+        "jobTitle": "Jr . Frontend Developer",
+        "skillsRequired": [
+            "ML;Javascript",
+            "Backend",
+            "Interpersonal skills",
+            "CSS",
+            "Front end",
+            "Javascript",
+            "PHP",
+            "HT"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-android-freshers-vatsal-technosoft-pvt-ltd-kolkata-mumbai-indore-pune-ahmedabad-surat-bangalore-bengaluru-vadodara-baroda-0-to-1-years-010323500107",
+        "companyName": "Vatsal Technosoft",
+        "jobTitle": "Android Freshers",
+        "skillsRequired": [
+            "L",
+            "OOPS",
+            "android studio",
+            "augmented reality",
+            "JSON",
+            "Android SDK",
+            "android development",
+            "android application developme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-associates-iconsultera-ahmedabad-0-to-2-years-250121501174",
+        "companyName": "Iconsultera",
+        "jobTitle": "Associates",
+        "skillsRequired": [
+            "F",
+            "Architecture",
+            "Staffing",
+            "Social networking",
+            "Corporate",
+            "Manager Technology",
+            "HTML",
+            "Creative writi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-app-full-stack-development-internship-at-expertel-sa-proceedit1708507758",
+        "companyName": "Expertel SA - Proceedit (Barcelona, Espa\u00f1a)",
+        "jobTitle": "App Full-stack Development",
+        "skillsRequired": [
+            "Data Science'",
+            " 'Deep Learning'",
+            " 'Flutter'",
+            " 'Machine Learning'",
+            " 'Natural Language Processing (NLP)'",
+            " 'PostgreSQL'",
+            " 'Python'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-node-js-developer-aipxperts-technolabs-pvt-ltd-ahmedabad-0-to-4-years-281123501525",
+        "companyName": "Aipxperts Technolabs",
+        "jobTitle": "Node Js Developer",
+        "skillsRequired": [
+            "DE",
+            "Web application development",
+            "security compliance",
+            "jQuery",
+            "Front end",
+            "GIT",
+            "HP data protector",
+            "Social med"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-node-js-mongodb-developer-ark-infosoft-ahmedabad-0-to-3-years-180822501953",
+        "companyName": "ARK Infosoft",
+        "jobTitle": "Node . js / MongoDB developer",
+        "skillsRequired": [
+            "DE",
+            "Front end",
+            "Javascript",
+            "Database",
+            "MongoDB",
+            "Management",
+            "Front",
+            "No"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-html-css-bootstrap-developer-pristinit-solutions-ahmedabad-0-to-3-years-040823501472",
+        "companyName": "Pristinit Solutions",
+        "jobTitle": "HTML/CSS/Bootstrap Developer",
+        "skillsRequired": [
+            "DE",
+            "CSS",
+            "jQuery",
+            "GIT",
+            "Web technologies",
+            "html5",
+            "Javascript",
+            "HT"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-android-developer-bluepixel-technologies-llp-ahmedabad-0-to-7-years-290623502266",
+        "companyName": "Bluepixel Technologies",
+        "jobTitle": "Android Developer",
+        "skillsRequired": [
+            "DE",
+            "Backend",
+            "Focus",
+            "Infrastructure",
+            "HTML",
+            "Android",
+            "Android Application Development",
+            "Developme"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-reactjs-development-internship-at-build-with-innovation-private-limited1707717060",
+        "companyName": "Build With Innovation Private Limited",
+        "jobTitle": "Reactjs Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'Firebase'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'MongoDB'",
+            " 'Next.js'",
+            " 'Node.js'",
+            " 'ReactJS"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-wordpress-development-internship-at-blackcoffer1707720828",
+        "companyName": "Blackcoffer",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "Bootstrap'",
+            " 'CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'PHP'",
+            " 'Search Engine Optimization (SEO)'",
+            " 'Video Editing'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-angular-development-internship-at-build-with-innovation-private-limited1707820686",
+        "companyName": "Build With Innovation Private Limited",
+        "jobTitle": "Angular Development",
+        "skillsRequired": [
+            "Angular 2.0'",
+            " 'Angular 7.0'",
+            " 'CSS'",
+            " 'Firebase'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'MongoDB'",
+            " 'Node.js"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-flutter-development-internship-at-blackcoffer1707994290",
+        "companyName": "Blackcoffer",
+        "jobTitle": "Flutter Development",
+        "skillsRequired": [
+            "Android'",
+            " 'Cloud Firestore'",
+            " 'Dart'",
+            " 'Firebase'",
+            " 'Flutter'",
+            " 'iOS'",
+            " 'React Native'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-qa-testing-international-internship-at-oralens-healthcare1708692135",
+        "companyName": "Oralens Healthcare",
+        "jobTitle": "QA Testing (International)",
+        "skillsRequired": [
+            "Amazon Web Services (AWS)'",
+            " 'Android'",
+            " 'Flutter'",
+            " 'iOS'",
+            " 'Java'",
+            " 'Node.js'",
+            " 'Quality Assurance/Quality Control (QA/QC)'",
+            " 'Web Application Security"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-php-development-internship-at-megaminds-it-services1707972927",
+        "companyName": "Megaminds IT Services",
+        "jobTitle": "PHP Development",
+        "skillsRequired": [
+            "AJAX'",
+            " 'HTML'",
+            " 'HTML&CSS'",
+            " 'JavaScript'",
+            " 'jQuery'",
+            " 'Moodle'",
+            " 'MySQL'",
+            " 'PHP"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-full-stack-development-php-laravel-internship-at-bhujbal-daily-solutions-private-limited1707288294",
+        "companyName": "Bhujbal Daily Solutions Private Limited",
+        "jobTitle": "Full Stack Development PHP Laravel",
+        "skillsRequired": [
+            "AJAX'",
+            " 'CSS'",
+            " 'HTML'",
+            " 'jQuery'",
+            " 'LARAVEL'",
+            " 'MySQL'",
+            " 'PHP'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-lit-infotech-limited1706869954",
+        "companyName": "Lit Infotech Limited (London, United Kingdom)",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            ".NET'",
+            " 'ASP.NET'",
+            " 'Bootstrap'",
+            " 'C#'",
+            " 'HTML&CSS'",
+            " 'JavaScript'",
+            " 'MEAN/MERN Stack'",
+            " 'MySQL"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-developer-oob-smarthome-india-pvt-ltd-ahmedabad-0-to-1-years-151022500422",
+        "companyName": "Oob Smarthome India",
+        "jobTitle": "PHP Developer",
+        "skillsRequired": [
+            "+",
+            "jQuery",
+            "Database management",
+            "html5",
+            "MySQL",
+            "Javascript",
+            "Infrastructure",
+            "P"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-php-developers-teclogiq-ahmedabad-0-to-5-years-080420500554",
+        "companyName": "Teclogiq",
+        "jobTitle": "PHP Developers",
+        "skillsRequired": [
+            "+",
+            "design",
+            "MySQL",
+            "JavaScript",
+            "PHP",
+            "integration PHP",
+            "HTML",
+            "integrati"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-embedded-engineer-oob-automation-ahmedabad-0-to-2-years-271223502001",
+        "companyName": "OOB Automation",
+        "jobTitle": "Embedded Engineer",
+        "skillsRequired": [
+            "+",
+            "Communication protocols",
+            "Embedded systems",
+            "Assembly language",
+            "Analog",
+            "System integration",
+            "Debugging",
+            "System desi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-mean-stack-developer-intern-nichetech-computer-solutions-pvt-ltd-ahmedabad-0-to-1-years-180124500499",
+        "companyName": "NicheTech Computer Solutions Pvt.Ltd",
+        "jobTitle": "Mean Stack Developer Intern",
+        "skillsRequired": [
+            "+",
+            "CSS",
+            "Web technologies",
+            "Software development life cycle",
+            "Programming",
+            "Data structures",
+            "HTML",
+            "Mongo"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-business-development-executive-arth-infosoft-pvt-ltd-ahmedabad-ahmedabad-0-to-2-years-081015500565",
+        "companyName": "Arth Infosoft",
+        "jobTitle": "Business Development Executive",
+        "skillsRequired": [
+            " office applications",
+            "bidding",
+            "documentation",
+            "cms",
+            "e commerce",
+            "excel and powerpoint",
+            "portal",
+            "web applicatio"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-business-development-executive-arth-infosoft-pvt-ltd-ahmedabad-0-to-2-years-160715500452",
+        "companyName": "Arth Infosoft",
+        "jobTitle": "Business Development Executive",
+        "skillsRequired": [
+            " office applications",
+            "bidding",
+            "documentation",
+            "cms",
+            "business development executive",
+            "excel and powerpoint",
+            "portal",
+            "av"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-angular-js-developer-teclogiq-ahmedabad-0-to-5-years-181023501887",
+        "companyName": "Teclogiq",
+        "jobTitle": "Angular JS Developer",
+        "skillsRequired": [
+            " development",
+            "Application testing",
+            "Front end",
+            "Version control",
+            "GIT",
+            "Web services",
+            "Testing tools",
+            "Codi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-junior-net-developer-technometrics-solution-pvt-ltd-ahmedabad-0-to-2-years-220823500029",
+        "companyName": "Technometrics Solution",
+        "jobTitle": "Junior .net Developer",
+        "skillsRequired": [
+            " SQL",
+            "jQuery",
+            "Web services",
+            "VB.NET",
+            "Analytical",
+            "Javascript",
+            "ASP.Net",
+            "JS"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-software-developer-markteq708-iscon-elegance-ahmedabad-0-to-3-years-310316504959",
+        "companyName": "Markteq708 Iscon Elegance",
+        "jobTitle": "Software Developer",
+        "skillsRequired": [
+            "",
+            "tware development",
+            "software",
+            "wordpress",
+            "level",
+            "cms",
+            "it",
+            "windo"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-dot-net-developer-intellect-infonet-ahmedabad-0-to-3-years-200319501723",
+        "companyName": "Intellect Infonet",
+        "jobTitle": "Dot Net Developer",
+        "skillsRequired": [
+            "",
+            "Web technologies",
+            "C",
+            "web",
+            "asp.net",
+            ".net",
+            "developer",
+            "m"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-graduate-opportunities-veloxcore-ahmedabad-0-to-1-years-070918500114",
+        "companyName": "Veloxcore",
+        "jobTitle": "Graduate Opportunities",
+        "skillsRequired": [
+            "",
+            "Web application testing",
+            "Automation testing",
+            "development",
+            "C",
+            "technical",
+            "software",
+            "testi"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-junior-odoo-functional-consultant-beyondata-ahmedabad-0-to-3-years-210723502012",
+        "companyName": "Beyondata Solutions",
+        "jobTitle": "Junior Odoo Functional Consultant",
+        "skillsRequired": [
+            "",
+            "Training",
+            "Software development methodologies",
+            "Postgresql",
+            "Sales support",
+            "Testing",
+            "Quality assurance",
+            "Opene"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-artist-2d-3d-global-india-technologies-ahmedabad-0-to-3-years-150323500901",
+        "companyName": "Global India Technologies",
+        "jobTitle": "Artist 2D/3D",
+        "skillsRequired": [
+            "",
+            "Mobile application development",
+            "Social media",
+            "Web development",
+            "System integration",
+            "Web designing",
+            "SEO",
+            "Med"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://www.naukri.com/job-listings-jr-developer-omex-infotech-ahmedabad-0-to-1-years-061217500505",
+        "companyName": "Omex Infotech",
+        "jobTitle": "Jr Developer",
+        "skillsRequired": [
+            "",
+            "Automation",
+            "css",
+            "Wealth management",
+            "technical",
+            "Regression",
+            "Test scenarios",
+            "Capital mark"
+        ],
+        "noOfMissingSkills": 8
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-brihat-infotech-private-limited1708431788",
+        "companyName": "Brihat Infotech Private Limited",
+        "jobTitle": "Full Stack Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'Express.js'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'MongoDB'",
+            " 'MySQL'",
+            " 'Node.js'",
+            " 'ReactJS'",
+            " 'Tailwind CSS"
+        ],
+        "noOfMissingSkills": 9
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-blockchain-development-internship-at-shubh-international1707816188",
+        "companyName": "Shubh International",
+        "jobTitle": "Blockchain Development",
+        "skillsRequired": [
+            "Blockchain'",
+            " 'C++ Programming'",
+            " 'Ethereum'",
+            " 'Hyperledger'",
+            " 'Java'",
+            " 'JavaScript'",
+            " 'Node.js'",
+            " 'Python'",
+            " 'ReactJS"
+        ],
+        "noOfMissingSkills": 9
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-blockchain-development-internship-at-avaari1707816130",
+        "companyName": "Avaari",
+        "jobTitle": "Blockchain Development",
+        "skillsRequired": [
+            "Blockchain'",
+            " 'C++ Programming'",
+            " 'Ethereum'",
+            " 'Hyperledger'",
+            " 'Java'",
+            " 'JavaScript'",
+            " 'Node.js'",
+            " 'Python'",
+            " 'ReactJS"
+        ],
+        "noOfMissingSkills": 9
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-blockchain-development-internship-at-buddha-education-association-incorporation1707812850",
+        "companyName": "Buddha Education Association Incorporation",
+        "jobTitle": "Blockchain Development",
+        "skillsRequired": [
+            "Blockchain'",
+            " 'C++ Programming'",
+            " 'Ethereum'",
+            " 'Hyperledger'",
+            " 'Java'",
+            " 'JavaScript'",
+            " 'Node.js'",
+            " 'Python'",
+            " 'ReactJS"
+        ],
+        "noOfMissingSkills": 9
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-technology-events-coordinator-internship-at-virtualqaptive-consulting-services-private-limited1708577864",
+        "companyName": "Virtualqaptive Consulting Services Private Limited",
+        "jobTitle": "Technology Events Coordinator",
+        "skillsRequired": [
+            "Articulate Storyline'",
+            " 'Effective Communication'",
+            " 'Event Management'",
+            " 'Instagram Marketing'",
+            " 'LinkedIn Marketing'",
+            " 'Machine Learning'",
+            " 'Software Testing'",
+            " 'Time Management'",
+            " 'YouTube Ads"
+        ],
+        "noOfMissingSkills": 9
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-embedded-systems-and-software-development-full-stack-from-design-to-deploy-iot-ai-ml-internship-at-oralens-llc1707990963",
+        "companyName": "Oralens LLC (Sheridan, United States)",
+        "jobTitle": "Embedded Systems And Software Development (Full Stack From Design To Deploy, IoT , AI/ML)",
+        "skillsRequired": [
+            "Arduino'",
+            " 'Blender 3D'",
+            " 'CAD'",
+            " 'Computer Vision'",
+            " 'Embedded Systems'",
+            " 'Internet of Things (IoT)'",
+            " 'Python'",
+            " 'Raspberry Pi'",
+            " 'Robotics"
+        ],
+        "noOfMissingSkills": 9
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-flutter-development-internship-at-go-eleventh-mile-technologies-private-limited1708140160",
+        "companyName": "Go Eleventh Mile Technologies Private Limited",
+        "jobTitle": "Flutter Development",
+        "skillsRequired": [
+            "Android'",
+            " 'Cloud Firestore'",
+            " 'Dart'",
+            " 'Data Structures'",
+            " 'Firebase'",
+            " 'Firebase Cloud Messaging'",
+            " 'Flutter'",
+            " 'iOS'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 9
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/full-stack-development-work-from-home-job-internship-at-travelbud1704483605",
+        "companyName": "TravelBud",
+        "jobTitle": "Full Stack Development",
+        "skillsRequired": [
+            "Amazon Web Services (AWS)'",
+            " 'Dart'",
+            " 'Figma'",
+            " 'Flutter'",
+            " 'JavaScript'",
+            " 'MySQL'",
+            " 'Node.js'",
+            " 'PHP'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 9
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-megaminds-it-services1706591675",
+        "companyName": "Megaminds IT Services",
+        "jobTitle": "Python Development",
+        "skillsRequired": [
+            "Data Analytics'",
+            " 'Data Science'",
+            " 'Deep Learning'",
+            " 'English Proficiency (Spoken)'",
+            " 'English Proficiency (Written)'",
+            " 'Machine Learning'",
+            " 'Natural Language Processing (NLP)'",
+            " 'Python'",
+            " 'Research and Analytics'",
+            " 'SQL"
+        ],
+        "noOfMissingSkills": 10
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/part-time-web-development-internship-in-multiple-locations-at-avaari1708589752",
+        "companyName": "Avaari",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "Bootstrap'",
+            " 'CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'jQuery'",
+            " 'MySQL'",
+            " 'Node.js'",
+            " 'PHP'",
+            " 'ReactJS'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 10
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-tripfox1708433779",
+        "companyName": "Tripfox",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "Bootstrap'",
+            " 'CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'jQuery'",
+            " 'MySQL'",
+            " 'Node.js'",
+            " 'PHP'",
+            " 'ReactJS'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 10
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/web-development-internship-in-multiple-locations-at-shubh-international1708325068",
+        "companyName": "Shubh International",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "Bootstrap'",
+            " 'CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'jQuery'",
+            " 'MySQL'",
+            " 'Node.js'",
+            " 'PHP'",
+            " 'ReactJS'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 10
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-systemic-altruism1708154527",
+        "companyName": "Systemic Altruism",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "Bootstrap'",
+            " 'CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'jQuery'",
+            " 'MySQL'",
+            " 'Node.js'",
+            " 'PHP'",
+            " 'ReactJS'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 10
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-avaari1707815822",
+        "companyName": "Avaari",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "Bootstrap'",
+            " 'CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'jQuery'",
+            " 'MySQL'",
+            " 'Node.js'",
+            " 'PHP'",
+            " 'ReactJS'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 10
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-shubh-international1707813459",
+        "companyName": "Shubh International",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "Bootstrap'",
+            " 'CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'jQuery'",
+            " 'MySQL'",
+            " 'Node.js'",
+            " 'PHP'",
+            " 'ReactJS'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 10
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-jivichem-synthesis-private-limited1707556689",
+        "companyName": "Jivichem Synthesis Private Limited",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "Bootstrap'",
+            " 'CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'jQuery'",
+            " 'MySQL'",
+            " 'Node.js'",
+            " 'PHP'",
+            " 'ReactJS'",
+            " 'WordPress"
+        ],
+        "noOfMissingSkills": 10
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-systemic-altruism1708154229",
+        "companyName": "Systemic Altruism",
+        "jobTitle": "Front End Development",
+        "skillsRequired": [
+            "AngularJS'",
+            " 'Bootstrap'",
+            " 'CSS'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'jQuery'",
+            " 'Node.js'",
+            " 'ReactJS'",
+            " 'Redux'",
+            " 'REST API"
+        ],
+        "noOfMissingSkills": 10
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-bytefields-llp1708702128",
+        "companyName": "Bytefields LLP",
+        "jobTitle": "Web Development",
+        "skillsRequired": [
+            "AJAX'",
+            " 'Bootstrap'",
+            " 'CSS'",
+            " 'Git'",
+            " 'Git Bash'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'jQuery'",
+            " 'JSON'",
+            " 'PHP"
+        ],
+        "noOfMissingSkills": 10
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-part-time-wordpress-development-internship-at-wowpets-influencers-llp1707736850",
+        "companyName": "WOWPETS INFLUENCERS LLP",
+        "jobTitle": "WordPress Development",
+        "skillsRequired": [
+            "CSS'",
+            " 'Digital Advertising'",
+            " 'Digital Marketing'",
+            " 'Facebook Ads'",
+            " 'Facebook Marketing'",
+            " 'HTML'",
+            " 'JavaScript'",
+            " 'PHP'",
+            " 'Search Engine Marketing (SEM)'",
+            " 'Search Engine Optimization (SEO)'",
+            " 'Social Media Marketing"
+        ],
+        "noOfMissingSkills": 11
+    },
+    {
+        "URL": "https://internshala.com/internship/detail/work-from-home-python-full-stack-development-internship-at-blackcoffer1708171609",
+        "companyName": "Blackcoffer",
+        "jobTitle": "Python Full Stack Development",
+        "skillsRequired": [
+            "Amazon Web Services (AWS)'",
+            " 'AngularJS'",
+            " 'Django'",
+            " 'Flask'",
+            " 'Google Cloud Computing'",
+            " 'JavaScript'",
+            " 'MongoDB'",
+            " 'Node.js'",
+            " 'PostgreSQL'",
+            " 'Postman'",
+            " 'Python"
+        ],
+        "noOfMissingSkills": 11
+    }
+]

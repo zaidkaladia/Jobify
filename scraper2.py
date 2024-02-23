@@ -8,6 +8,9 @@ from selenium.webdriver.chrome.options import Options
 from selectolax.parser import HTMLParser
 from bs4 import BeautifulSoup
 import pandas as pd
+import operator
+from operator import itemgetter
+
 
 
 listings = {"title": [],
@@ -112,8 +115,37 @@ scrapeNaukriDotCom("web development",0, "ahmedabad")
             
 df = pd.DataFrame(listings)
 df.to_csv('data.csv')
-print(df)
+#print(df)
 
-    
+df = pd.read_csv("data.csv", usecols = ['companyName','title','skills', 'URLs'])
+
+userSkills = ["ms-excel", "data analytics"]
+skillsRemainingPerPosting = []
+
+for index, row in df.iterrows():
+    listedSkills=row['skills'][2:-2].split("', '")
+    listedSkills=row['skills'][2:-2].split(",")
+    remainingSkills = []
+    for skill in listedSkills:
+        if skill not in userSkills:
+            remainingSkills.append(skill)
+    tempDict = {}
+    tempDict["URL"] = row['URLs']
+    tempDict["companyName"] = row['companyName']
+    tempDict["jobTitle"] = row['title']
+    tempDict["skillsRequired"] = remainingSkills
+    tempDict["noOfMissingSkills"] = len(remainingSkills)
+    skillsRemainingPerPosting.append(tempDict)
+ 
+#print(skillsRemainingPerPosting)
+
+skillsRemainingPerPosting = sorted(skillsRemainingPerPosting, key=itemgetter('skillsRequired'), reverse=True)
+
+skillsRemainingPerPosting.sort(key=operator.itemgetter('noOfMissingSkills'))
+
+
+json_object = json.dumps(skillsRemainingPerPosting, indent=4)
+with open('skillDiffData.json', 'w') as f:
+    f.write(json_object)
 
 
