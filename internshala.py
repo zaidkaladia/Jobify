@@ -113,7 +113,7 @@ def scrapeInternshala(profile, location):
                 skills = []
                 for skill in skillsFromDetailsPage:
                     if(skill.text != "\n"):
-                        skills.append(skill.text)
+                        skills.append(skill.text.lower())
                 listings["skills"].append(skills)
                 # listings.append(titleCompanyNameDetails)
                 # print(listings)
@@ -122,8 +122,9 @@ def scrapeInternshala(profile, location):
             print(URL)
             print(err)
     df = pd.DataFrame(listings)
+    csv = df.to_csv('data.csv')
     print(df)
-scrapeInternshala("Web Development", "Ahmedabad")
+scrapeInternshala("data analytics", "ahmedabad")
 # launchBrowser(URL)
 # resp = httpx.get(URL, headers=headers)
 # html = HTMLParser(resp.text)
