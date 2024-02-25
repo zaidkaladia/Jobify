@@ -22,8 +22,30 @@ for index, row in df.iterrows():
 sorted_x = sorted(skillCountDictionary.items(), key=operator.itemgetter(1))
 
 # Convert the sorted dictionary to a JSON string
-json_output = json.dumps(sorted_x)
+#json_output = json.dumps(sorted_x)
+#for i in range(-1:-10):
+#    print(json_output[i])
+#with open('skillsSortedByFrequency.json', 'w') as f:
+#    f.write(json_output)
+#
+#print(json_output)
+#print(totalOutputs)
 
-print(json_output)
-print(totalOutputs)
+print(sorted_x)
 
+finalDataDictionary = []
+counter=0
+for i in range(len(sorted_x)-1, -1, -1):
+    counter=counter+1
+    if counter == 11:
+        break
+    tempDict = {}
+    tempDict['skill'] = sorted_x[i][0]
+    tempDict['jobs'] = sorted_x[i][1]
+    finalDataDictionary.append(tempDict)
+    
+
+json_output = json.dumps(finalDataDictionary)
+
+with open('skillsSortedByFrequency.json', 'w') as f:
+    f.write(json_output)

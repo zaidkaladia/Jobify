@@ -32,6 +32,9 @@ for index, row in df.iterrows():
 
 skillsRemainingPerPosting.sort(key=operator.itemgetter('noOfMissingSkills'))
 
+
+
+
 json_object = json.dumps(skillsRemainingPerPosting, indent=4)
 with open('skillDiffData.json', 'w') as f:
     f.write(json_object)
